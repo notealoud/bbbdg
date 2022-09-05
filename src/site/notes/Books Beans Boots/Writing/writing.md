@@ -21,7 +21,7 @@ I write in Obsidian, both privately and in public. You can also find me on Mediu
 
 As well as non-fiction I write short stories including The [[Books Beans Boots/Writing/undertaker|Undertaker]].
 
-[[Books Beans Boots/Categories/evergreen|evergreen]]
+[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
