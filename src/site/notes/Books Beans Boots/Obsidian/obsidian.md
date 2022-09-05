@@ -5,7 +5,7 @@
 
 ## 🌳 obsidian
 
-Obsidian changed everything for me. It took me on a journey of transformation that I still can't quite believe. I am rather [[Books Beans Boots/Obsidian/obsessed|obsessed]] with Obsidian!
+Obsidian changed everything for me. It took me on a journey of transformation that I still can't quite believe. I am rather [[Books Beans Boots/Obsidian/obsessed|obsessed]] with Obsidian, and have been using it for over a [[Books Beans Boots/Obsidian/year|year]]!
 
 Note taking was something I did throughout my life. Notes that never really went anywhere. Obsidian made my notes useful. It showed me the connections between ideas and joined the dots. It led me down a path called [[Books Beans Boots/Obsidian/pkm|pkm]] and Second Brain. It lit a fire beneath me that has never gone out.
 
