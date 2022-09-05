@@ -9,5 +9,4 @@ In 1984/85, I lived in Paris and studied at the Sorbonne. One of my enduring mem
 
 These days, I write a lot about living life at a gentler pace. Inspired by a photographer I know, I started to create my own [[Books Beans Boots/Life/credo|credo]].
 
-
 🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
