@@ -21,9 +21,4 @@ I write in Obsidian, both privately and in public. You can also find me on Mediu
 
 As well as non-fiction I write short stories including The [[Books Beans Boots/Writing/undertaker|Undertaker]].
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 4th September 2022*
-*Last update: 5th September 2022*
-
-
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
