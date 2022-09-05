@@ -21,7 +21,7 @@ The whole PKM journey has reignited my love of discovery. Not only am I writing 
 
 It's introduced me to a whole new world of apps, to people I might otherwise never have spoken to, and brought me an incredible sense of fulfilment. It's become a way of life.
 
-[[Books Beans Boots/Categories/evergreen|evergreen]]
+[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
