@@ -3,7 +3,7 @@
 ---
 
 
-## how the razor's edge changed bill murray's life
+## 🌿 how the razor's edge changed bill murray's life
 
 [[Books Beans Boots/Life/bill|Bill]] Murray didn't offer me chocolate when I chatted with him - he offered me a piece of his Palmier.
 
