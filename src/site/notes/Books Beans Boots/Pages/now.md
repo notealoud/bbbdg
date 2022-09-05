@@ -37,6 +37,4 @@ I am still a huge fan of Obsidian. That, too, is undergoing a refresh, especiall
 
 *Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about).*
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
 *Last update: 4th September 2022*
