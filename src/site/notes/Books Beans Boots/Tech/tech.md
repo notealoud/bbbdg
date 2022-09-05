@@ -11,7 +11,4 @@ I enjoy beta testing something new, looking for possible uses, thinking laterall
 
 I write about my favourite tech and tools - this includes [[Books Beans Boots/Obsidian/obsidian|Obsidian]]. I talk about how I use apps and share what I've learned to make tech easy for others.
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 4th September 2022*
-*Last update: 5th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
