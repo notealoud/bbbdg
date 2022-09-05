@@ -15,7 +15,7 @@ I’m an INFP. I’m unconventional, quirky, an introvert and live outside the c
 
 I have an eclectic range of interests. 
 
-🔗 Links: [books beans boots](https://booksbeansboots.start.page)
+🔗 Link: [books beans boots](https://booksbeansboots.start.page)
 
 ## writing
 
