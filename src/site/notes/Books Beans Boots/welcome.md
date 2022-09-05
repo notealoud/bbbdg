@@ -11,6 +11,6 @@ I'm Nicola and this is my Digital Garden - you're reading my published Obsidian 
 
 The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric. 
 
-You can learn more [[Books Beans Boots/about|Books Beans Boots/about]] me, [[Books Beans Boots/subscribe|Books Beans Boots/subscribe]] to my newsletter, and find out what I'm doing [[Books Beans Boots/now|Books Beans Boots/now]].
+You can learn more [[Books Beans Boots/about|about]] me, [[Books Beans Boots/subscribe|subscribe]] to my newsletter, and find out what I'm doing [[Books Beans Boots/now|now]].
 
 To read my notes, [[Books Beans Boots/start|start]] here.
