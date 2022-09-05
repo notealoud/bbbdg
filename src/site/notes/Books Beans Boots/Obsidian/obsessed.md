@@ -3,7 +3,7 @@
 ---
 
 
-## why I'm obsessed with obsidian
+## 🌿 why I'm obsessed with obsidian
 
 A couple of months ago I happened upon an app called [Obsidian](https://obsidian.md/). A note taking app which describes itself as a Second Brain, I was intrigued. I’d been a long term user of Evernote, I’d tried Bear and One Note, I have analogue notes in notebooks but all of these eventually ended up becoming an archive for jottings and ideas, clippings from web pages or books, without real function.
 
@@ -74,8 +74,6 @@ I’ve always been a note taker. I love going down rabbits of information, and a
 There are many Obsidian users who have written books using this app and that appeals to me. I’ve always found it difficult to focus on one thing at a time. Obsidian provides the framework to allow me to work on multiple projects, to compartmentalise those ideas yet connect them to each other too. I can download into a variety of folders without, initially, needing to make sense of it all until I reach the writing and editing stages.
 
 I think my style of working is very much acquisition of information, first; then cultivate that information, second. Throw everything into the bucket, with suitable hashtags and links and, eventually, magic will happen and connections will be made in ways that you might never have imagined.
-
-[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
