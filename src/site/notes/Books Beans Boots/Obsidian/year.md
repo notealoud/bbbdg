@@ -13,7 +13,7 @@ Research about Roam led me to the free option that is Obsidian. Not knowing how 
 
 Back in late April/early May 2021, Obsidian filled my head. I would lie awake thinking of how I could use it, configure it, set it up. I’d work on my Mac until the wee small hours putting my ideas into practice.
 
-[**Why Obsidian is keeping me awake at night**  - I make no apologies for being almost evangelical about Obsidian. But it has given me a lot of sleepless nights!_medium.com](https://medium.com/talkingtech/why-obsidian-is-keeping-me-awake-at-night-71f828f92707 "https://medium.com/talkingtech/why-obsidian-is-keeping-me-awake-at-night-71f828f92707")
+[**Why Obsidian is keeping me awake at night**](https://medium.com/talkingtech/why-obsidian-is-keeping-me-awake-at-night-71f828f92707 "https://medium.com/talkingtech/why-obsidian-is-keeping-me-awake-at-night-71f828f92707")
 
 I was an Evernote fan for years. I’d tried Bear. But they were different animals. Obsidian was at one with my first brain, making it easy for it to become my second brain.
 
