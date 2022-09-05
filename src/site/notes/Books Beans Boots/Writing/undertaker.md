@@ -3,7 +3,7 @@
 ---
 
 
-## the undertaker
+## 🌳 the undertaker
 
 The fireman squeezed his body into the firebox. It was a tight fit but he was skinny and he slid himself through the narrow opening. He needed to get on with his preparations.
 
@@ -236,8 +236,6 @@ Further stories about the fire appeared in newspapers over the following days. T
 Adam put down the newspaper and grinned.
 
 The phone rang. It was Mick.
-
-[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
