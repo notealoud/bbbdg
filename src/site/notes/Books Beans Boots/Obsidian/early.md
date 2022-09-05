@@ -27,7 +27,4 @@ Although I loved the earlier template I was using, I've settled on a white backg
 - [A second brain,  for you, forever.](https://obsidian.md/)
 - [Building a second brain](https://maggieappleton.com/basb) 
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 29th July 2021*
-*Last update: 4th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
