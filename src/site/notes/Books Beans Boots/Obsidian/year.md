@@ -85,7 +85,4 @@ This has been a phenomenal conference hosted by Nick Milo. I’ve been inspired 
 
 Needless to say, Obsidian remains a key tool in my arsenal. It simply gets better and better.
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 4th September 2022*
-*Last update: 5th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
