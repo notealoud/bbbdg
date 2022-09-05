@@ -3,7 +3,7 @@
 ---
 
 
-## why you need to keep a daily log
+## 🌱 why you need to keep a daily log
 
 Keeping a daily log is a relatively new thing for me. It started after I came across [Michael Dean](https://www.michaeldean.site/)’s website.
 
@@ -26,8 +26,6 @@ This was a really good meal I ate in the Cotswolds: _Pan fried chicken breast. C
 Another observation about Bamber: _What’s a moveable feast? It’s moving food out of Bamber’s way!_
 
 Here’s a description of someone we met. I may use him as a character. _G gave us £5 for Guide Dogs. Glasses. Grey neck length hair. Light brown leather waistcoat. Talked to himself. Took a shine to Bamber. Despite being blotto, remembered his name._
-
-[[seedling|seedling]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
