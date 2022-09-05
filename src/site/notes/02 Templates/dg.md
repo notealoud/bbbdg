@@ -5,7 +5,7 @@
 
 ## title
 
-***go back to [[start|start]]***
+***go back to [[Digital Garden/start|start]]***
 
 *Date created: <% tp.file.creation_date("Do MMMM YYYY") %>*
 *Last update: <% tp.date.now("Do MMMM YYYY") %>*
