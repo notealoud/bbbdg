@@ -9,7 +9,4 @@ I explore life lived at a gentler pace.
 
 Read my [[Books Beans Boots/Life/credo|credo]].
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 4th September 2022*
-*Last update: 5th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
