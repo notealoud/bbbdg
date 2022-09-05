@@ -3,7 +3,7 @@
 ---
 
 
-## meeting bill murray in paris
+## 🌿 meeting bill murray in paris
 
 I lived in Paris in 1984/1985. Around Easter 1985, I heard that [[Books Beans Boots/Life/bill|Bill]] Murray was also living there. He'd just finished Ghostbusters (known locally as SOS Fantomes) and had been in Paris to film The Razor's Edge. I saw both of these films first in Paris.
 
