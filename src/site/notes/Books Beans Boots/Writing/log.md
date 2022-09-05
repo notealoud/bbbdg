@@ -27,7 +27,4 @@ Another observation about Bamber: _What’s a moveable feast? It’s moving food
 
 Here’s a description of someone we met. I may use him as a character. _G gave us £5 for Guide Dogs. Glasses. Grey neck length hair. Light brown leather waistcoat. Talked to himself. Took a shine to Bamber. Despite being blotto, remembered his name._
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 4th September 2022*
-*Last update: 4th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
