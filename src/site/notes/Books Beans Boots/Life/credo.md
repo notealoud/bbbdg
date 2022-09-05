@@ -25,7 +25,7 @@
 
 10. Say what is usually unspoken. Don't dodge the big topics. Sometimes a double-edged sword! Face life head on.
 
-[[Books Beans Boots/Categories/evergreen|evergreen]]
+[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
