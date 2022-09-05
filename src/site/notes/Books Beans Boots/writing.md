@@ -17,6 +17,8 @@ There were signs of encouragement. Kind words, positive comments. Unsolicited em
 
 Then, one day, I decided I had to go all in with my writing. So I did.
 
+I write in Obsidian, both privately and in public. You can also find me on Medium and Substack. I like to write a daily [[Books Beans Boots/log|log]], and share writing logs for my Substack subscribers.
+
 [[Books Beans Boots/evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/start|start]]***
