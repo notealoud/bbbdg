@@ -13,6 +13,7 @@ All notes include date created and last update.
 
 ## index
 
+- [[Books Beans Boots/Life/life|life]]
 - [[Books Beans Boots/Obsidian/obsidian|obsidian]]
 - [[Books Beans Boots/Tech/tech|tech]]
 - [[Books Beans Boots/Writing/writing|writing]]
