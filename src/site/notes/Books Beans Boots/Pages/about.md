@@ -15,6 +15,8 @@ I’m an INFP. I’m unconventional, quirky, an introvert and live outside the c
 
 I have an eclectic range of interests. 
 
+🔗 Links: [books beans boots](https://booksbeansboots.start.page)
+
 ## writing
 
 I write about the intersection between tech and living at a gentler pace. I'm exploring the premise that, if more of us lived a gentle life, reconnected to who we truly are, or our essence, as I call it, we could change the world for the better. 
