@@ -5,9 +5,9 @@
 
 ## evergreen
 
-🌱 _Seedlings_ drafts and new ideas
-🌿 _Budding_ ideas that have been developed, writing that's been edited
-🌳 _Evergreen_ published or completed writing
+🌱 _[[Digital Garden/seedling|Seedling]]_ drafts and new ideas
+🌿 _[[Digital Garden/budding|Budding]]_ ideas that have been developed, writing that's been edited
+🌳 _[[Digital Garden/evergreen|Evergreen]]_ published or completed writing
 
 All notes include date created and last update.
 
