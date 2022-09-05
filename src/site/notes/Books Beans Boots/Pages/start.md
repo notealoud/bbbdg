@@ -17,6 +17,3 @@ All notes include date created and last update.
 - [[Books Beans Boots/Obsidian/obsidian|obsidian]]
 - [[Books Beans Boots/Tech/tech|tech]]
 - [[Books Beans Boots/Writing/writing|writing]]
-
-*Date created: 4th September 2022*
-*Last update: 4th September 2022*
