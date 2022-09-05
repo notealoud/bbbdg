@@ -17,6 +17,4 @@ I write on Substack and send out [a weekly newsletter.](https://booksbeansboots
 
 <iframe src="https://booksbeansboots.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Last update: 4th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
