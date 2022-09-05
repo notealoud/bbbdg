@@ -7,7 +7,7 @@
 
 I explore life lived at a gentler pace.
 
-Read my [[credot|credot]].
+Read my [[Books Beans Boots/Life/credo|credo]].
 
 [[Books Beans Boots/Categories/evergreen|evergreen]]
 
