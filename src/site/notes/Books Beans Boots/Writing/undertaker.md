@@ -237,7 +237,4 @@ Adam put down the newspaper and grinned.
 
 The phone rang. It was Mick.
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 4th September 2021*
-*Last update: 4th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
