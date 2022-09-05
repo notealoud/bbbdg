@@ -5,9 +5,9 @@
 
 ## 🌳 start here
 
-🌱 _seedling_ drafts and new ideas
-🌿 _budding_ ideas that have been developed, writing that's been edited
-🌳 _evergreen_ published or completed writing
+🌱 _seedling_: drafts and new ideas
+🌿 _budding_: ideas that have been developed, writing that's been edited
+🌳 _evergreen_: published or completed writing
 
 All notes include date created and last update.
 
