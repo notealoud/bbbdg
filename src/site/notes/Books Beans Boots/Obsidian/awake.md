@@ -15,7 +15,4 @@ Obsidian was all I thought - and talked - about. Every day I would tell my husba
 
 Finally, normal sleep returned. Until recently, when my reading inspired a review of my workflow and led me to create a more systemised approach to content creation. Another revolution has taken place, and one that's waking me up again in the middle of the night!
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 29th July 2021*
-*Last update: 4th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
