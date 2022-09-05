@@ -13,7 +13,7 @@ It's thanks to Obsidian that I went all in as a writer. From Obsidian to PKM to 
 
 Writing became a possibility and it all started with Obsidian.
 
-[[Books Beans Boots/Categories/evergreen|evergreen]]
+[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
