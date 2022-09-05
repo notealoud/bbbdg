@@ -3,6 +3,8 @@
 ---
 
 
+## writing
+
 When I quit my day job in April 2019 in a bid to forge my own path, I came across someone who seemed to be doing exactly what I dreamed of. They had created a writing life. We spoke and then I went off in a different direction because I didn't think I should copy what she was doing.
 
 For almost three more years, I did a range of other things. I was a self-employed Business Advisor, website creator, eCourse host. I talked a lot about living at a gentler pace and my Essence Map. The latter never really gained any traction.
@@ -16,6 +18,8 @@ There were signs of encouragement. Kind words, positive comments. Unsolicited em
 Then, one day, I decided I had to go all in with my writing. So I did.
 
 [[Books Beans Boots/evergreen|evergreen]]
+
+***go back to [[Books Beans Boots/start|start]]***
 
 *Date created: 4th September 2022*
 *Last update: 5th September 2022*
