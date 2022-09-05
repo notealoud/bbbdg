@@ -5,7 +5,7 @@
 
 ![](https://source.unsplash.com/r49MK_VzMU0/1900x1200)
 
-## about me
+## 🌳 about me
 
 I'm Nicola. A Writer, Photographer, Podcaster, Geek.
 
