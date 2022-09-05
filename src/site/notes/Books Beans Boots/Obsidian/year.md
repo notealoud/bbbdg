@@ -13,7 +13,7 @@ Research about Roam led me to the free option that is Obsidian. Not knowing how 
 
 Back in late April/early May 2021, Obsidian filled my head. I would lie awake thinking of how I could use it, configure it, set it up. I’d work on my Mac until the wee small hours putting my ideas into practice.
 
-[**Why Obsidian is keeping me awake at night**](https://medium.com/talkingtech/why-obsidian-is-keeping-me-awake-at-night-71f828f92707 "https://medium.com/talkingtech/why-obsidian-is-keeping-me-awake-at-night-71f828f92707")
+Link: [*Why Obsidian is keeping me awake at night*](https://medium.com/talkingtech/why-obsidian-is-keeping-me-awake-at-night-71f828f92707 "https://medium.com/talkingtech/why-obsidian-is-keeping-me-awake-at-night-71f828f92707")
 
 I was an Evernote fan for years. I’d tried Bear. But they were different animals. Obsidian was at one with my first brain, making it easy for it to become my second brain.
 
@@ -57,7 +57,7 @@ I’ve scanned recipes pulled from magazines over the years. Now in a baking/rec
 
 Obsidian has been brilliant for outlining and writing the book I’m working on. I created a table of contents and then outlined the chapters. As I wrote the chapters, I backlinked the note to the table of contents. I found this really helpful in giving me greater visibility of what I was working on. Each section was a separate note, meaning I could re-order content easily. There’s also a plugin that allows you to compile your book at the end.
 
-[**Obsidian is a game changer if you want to write a book**](https://medium.com/talkingtech/obsidian-is-a-game-changer-if-you-want-to-write-a-book-50f91f782584 "https://medium.com/talkingtech/obsidian-is-a-game-changer-if-you-want-to-write-a-book-50f91f782584")
+Link: [*Obsidian is a game changer if you want to write a book*](https://medium.com/talkingtech/obsidian-is-a-game-changer-if-you-want-to-write-a-book-50f91f782584 "https://medium.com/talkingtech/obsidian-is-a-game-changer-if-you-want-to-write-a-book-50f91f782584")
 
 ## markdown
 
@@ -73,7 +73,7 @@ Obsidian can be as simple or as complex as you like. It can be extended with plu
 
 People often say that Obsidian is overwhelming and too complicated. But it really doesn’t have to be.
 
-[**Myth: Obsidian is too complicated. Not if you think of it as a house!**](https://medium.com/talkingtech/myth-obsidian-is-too-complicated-not-if-you-think-of-it-as-a-house-d4736cd6fdf2 "https://medium.com/talkingtech/myth-obsidian-is-too-complicated-not-if-you-think-of-it-as-a-house-d4736cd6fdf2")
+Link: [*Myth: Obsidian is too complicated. Not if you think of it as a house!**](https://medium.com/talkingtech/myth-obsidian-is-too-complicated-not-if-you-think-of-it-as-a-house-d4736cd6fdf2 "https://medium.com/talkingtech/myth-obsidian-is-too-complicated-not-if-you-think-of-it-as-a-house-d4736cd6fdf2")
 
 ## repository
 
