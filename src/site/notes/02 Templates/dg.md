@@ -5,7 +5,7 @@
 
 ## title
 
-***go back to [[Digital Garden/start|start]]***
+***go back to [[Books Beans Boots/start|start]]***
 
 *Date created: <% tp.file.creation_date("Do MMMM YYYY") %>*
 *Last update: <% tp.date.now("Do MMMM YYYY") %>*
