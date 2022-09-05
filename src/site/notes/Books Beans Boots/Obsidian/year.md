@@ -79,7 +79,7 @@ People often say that Obsidian is overwhelming and too complicated. But it reall
 
 As well as being my writing hub, Obsidian is a repository for key information, documents, and work-related content. It can be a task manager and a to do list. You can keep daily notes, and use dataview to track specific data. I have dashboards created using the workspace plugin. I call these Mission Control!
 
-## linking Your thinking
+## linking your thinking
 
 This has been a phenomenal conference hosted by Nick Milo. I’ve been inspired by the speakers and have updated my setup in light of what I’ve learned. I’ll be sharing some of these changes in a future post.
 
