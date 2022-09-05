@@ -15,5 +15,7 @@ Writing became a possibility and it all started with Obsidian.
 
 [[Books Beans Boots/evergreen|evergreen]]
 
+***go back to [[Books Beans Boots/start|start]]***
+
 *Date created: 4th September 2022*
 *Last update: 5th September 2022*
