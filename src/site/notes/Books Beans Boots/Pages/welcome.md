@@ -5,7 +5,7 @@
 
 ![](https://source.unsplash.com/hpjihlapEXg/1900x1200)
 
-## welcome
+## 🌳 welcome
 
 I'm Nicola and this is my Digital Garden - you're reading my published Obsidian notes. Some of these are works in progress, some merely ideas or headlines, others may have been published elsewhere. Some notes, and my thinking, may be incomplete.
 
