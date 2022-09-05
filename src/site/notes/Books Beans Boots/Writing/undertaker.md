@@ -237,7 +237,7 @@ Adam put down the newspaper and grinned.
 
 The phone rang. It was Mick.
 
-[[Books Beans Boots/Categories/evergreen|evergreen]]
+[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
