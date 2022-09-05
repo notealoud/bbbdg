@@ -11,38 +11,11 @@
 
 All notes include date created and last update.
 
----
+## index
 
-### Writing
-
-#### Tools
-
-- [[Books Beans Boots/log|log]] - why you need to keep a daily log
-
-#### Fiction
-
-**Short Stories**
-
-- [[Books Beans Boots/undertaker|undertaker]]
-
----
-
-### Tech
-
-#### Obsidian
-
-- [[obsidian2|obsidian2]]
-- [[Books Beans Boots/obsessed|obsessed]] - why I'm obsessed with Obsidian
-
-#### PKM
-
-- [[Books Beans Boots/pkm|pkm]] - why personal knowledge management is a game changer
-
----
-
-### Life
-
-- [[Books Beans Boots/credo|credo]] - 10 things I believe about life
+- [[Books Beans Boots/obsidian|obsidian]]
+- [[Books Beans Boots/tech|tech]]
+- [[Books Beans Boots/writing|writing]]
 
 *Date created: 4th September 2022*
 *Last update: 4th September 2022*
