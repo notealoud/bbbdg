@@ -13,5 +13,7 @@ I write about my favourite tech and tools. I talk about how I use apps and share
 
 [[Books Beans Boots/evergreen|evergreen]]
 
+***go back to [[Books Beans Boots/start|start]]***
+
 *Date created: 4th September 2022*
 *Last update: 5th September 2022*
