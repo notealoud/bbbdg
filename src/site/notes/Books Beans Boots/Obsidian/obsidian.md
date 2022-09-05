@@ -13,7 +13,4 @@ It's thanks to Obsidian that I went all in as a writer. From Obsidian to PKM to 
 
 Writing became a possibility and it all started with Obsidian.
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 4th September 2022*
-*Last update: 5th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
