@@ -77,5 +77,7 @@ I think my style of working is very much acquisition of information, first; then
 
 [[Books Beans Boots/evergreen|evergreen]]
 
+***go back to [[Books Beans Boots/start|start]]***
+
 *Date created: 29th July 2021*
 *Last update: 4th September 2022*
