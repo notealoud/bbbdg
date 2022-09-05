@@ -75,7 +75,7 @@ There are many Obsidian users who have written books using this app and that app
 
 I think my style of working is very much acquisition of information, first; then cultivate that information, second. Throw everything into the bucket, with suitable hashtags and links and, eventually, magic will happen and connections will be made in ways that you might never have imagined.
 
-[[Books Beans Boots/Categories/evergreen|evergreen]]
+[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
