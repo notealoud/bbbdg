@@ -9,7 +9,7 @@ I explore life lived at a gentler pace.
 
 Read my [[Books Beans Boots/Life/credo|credo]].
 
-[[Books Beans Boots/Categories/evergreen|evergreen]]
+[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
