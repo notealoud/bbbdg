@@ -3,7 +3,7 @@
 ---
 
 
-## 10 things I believe about life
+## 🌿 10 things I believe about life
 
 1. Nothing happens by chance. Our journey through life has definition, and we each have a role to play in our own lives and the lives of others.
 
@@ -24,8 +24,6 @@
 9. Talk to the people no-one else wants to talk to. Seek out those who are different, and on the periphery. Their stories will most likely fascinate you.
 
 10. Say what is usually unspoken. Don't dodge the big topics. Sometimes a double-edged sword! Face life head on.
-
-[[evergreen|evergreen]]
 
 ***go back to [[Books Beans Boots/Pages/start|start]]***
 
