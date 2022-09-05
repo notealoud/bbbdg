@@ -9,4 +9,6 @@ In 1984/85, I lived in Paris and studied at the Sorbonne. One of my enduring mem
 
 These days, I write a lot about living life at a gentler pace and new [[Books Beans Boots/Life/beginnings|beginnings]]. Inspired by a photographer I know, I started to create my own [[Books Beans Boots/Life/credo|credo]].
 
+Now I live in Derbyshire with my husband and his guide [[Books Beans Boots/Life/dog|dog]].
+
 🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
