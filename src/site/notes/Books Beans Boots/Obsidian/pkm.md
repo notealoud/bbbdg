@@ -21,7 +21,4 @@ The whole PKM journey has reignited my love of discovery. Not only am I writing 
 
 It's introduced me to a whole new world of apps, to people I might otherwise never have spoken to, and brought me an incredible sense of fulfilment. It's become a way of life.
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
-
-*Date created: 10th September 2021*
-*Last update: 4th September 2022*
+🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
