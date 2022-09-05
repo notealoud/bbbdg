@@ -11,6 +11,6 @@ I'm Nicola and this is my Digital Garden - you're reading my published Obsidian 
 
 The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric. 
 
-You can learn more [[07 Blot (archive)/pages/about|about]] me, [[07 Blot (archive)/pages/subscribe|subscribe]] to my newsletter, and find out what I'm doing [[07 Blot (archive)/pages/now|now]].
+You can learn more [[Digital Garden/about|about]] me, [[Digital Garden/subscribe|subscribe]] to my newsletter, and find out what I'm doing [[Digital Garden/now|now]].
 
-To read my notes, [[start|start]] here.
+To read my notes, [[Digital Garden/start|start]] here.
