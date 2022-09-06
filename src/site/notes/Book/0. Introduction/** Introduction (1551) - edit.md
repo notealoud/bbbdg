@@ -81,4 +81,4 @@ Although the map was intended to illuminate our individual journeys, it also fit
 
 In this book I want to share with you what I know of the Essence Map and the overarching message that, despite the circumstances, there is always light at the end of the tunnel.
 
-🌀 ***Return to [Live Life Gently](https://livelifegently.co.uk/)***
+🌀 ***return to [Live Life Gently](https://livelifegently.co.uk/)***
