@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"index","permalink":"/index/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"llgindex","permalink":"/llgindex/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
