@@ -13,6 +13,7 @@ All notes include date created and last update.
 
 ## index
 
+- [book](https://booksbeansboots.co.uk/llgindex/)
 - [[Books Beans Boots/Life/life|life]]
 - [[Books Beans Boots/Obsidian/obsidian|obsidian]]
 - [[Books Beans Boots/Reading/reading|reading]]
