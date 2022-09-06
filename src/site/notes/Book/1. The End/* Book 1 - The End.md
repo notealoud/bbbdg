@@ -133,4 +133,4 @@ The End is just the Beginning
 [[Book/1. The End/12.8 The Adjustment Bureau|12.8 The Adjustment Bureau]]
 [[Book/1. The End/12.9 how we can create the world we want to live in|12.9 how we can create the world we want to live in]]
 
-🌀 ***Return to [Live Life Gently](https://livelifegently.co.uk/)***
+🌀 ***return to [Live Life Gently](https://livelifegently.co.uk/)***
