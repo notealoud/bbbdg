@@ -59,7 +59,7 @@ Some of the content already exists and needs to be repurposed and edited for thi
 
 [[Book/9. WIP/* 9. WIP|* 9. WIP]]
 
-🌀 ***Return to [Live Life Gently](https://livelifegently.co.uk/)***
+🌀 ***return to [Live Life Gently](https://livelifegently.co.uk/)***
 
 ## Copyright
 
