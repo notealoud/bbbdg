@@ -59,11 +59,11 @@ Some of the content already exists and needs to be repurposed and edited for thi
 
 [[Book/9. WIP/* 9. WIP|* 9. WIP]]
 
+🌀 ***Return to [Live Life Gently](https://livelifegently.co.uk/)***
+
 ## Copyright
 
 Live Life Gently ~ Change the World
 Copyright © 2022 Nicola Fisher
 
 All rights reserved. No part of this book may be reproduced in any form or by any electronic or mechanical means, including information storage and retrieval systems, without permission in writing from the author, except by reviewers, quoting brief passages in the context of a review.
-
-🌀 ***Return to [Live Life Gently](https://livelifegently.co.uk/)***
