@@ -11,5 +11,7 @@ This section contains mostly notes I've sourced online, from emails or my readin
 
 - be [[Books Beans Boots/Notes + Quotes/interesting|interesting]] on the page
 - watching the [[Books Beans Boots/Notes + Quotes/oscars|oscars]] in your pyjamas
+- do [[Books Beans Boots/Notes + Quotes/stuff|stuff]]
+- living a [[Books Beans Boots/Notes + Quotes/successful|successful]] life
 
 🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
