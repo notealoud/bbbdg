@@ -3,7 +3,7 @@
 ---
 
 
-## 🌳 obsidian
+## 🌿 obsidian
 
 Obsidian changed everything for me. It took me on a journey of transformation that I still can't quite believe. I am rather [[Books Beans Boots/Obsidian/obsessed|obsessed]] with Obsidian, and have been using it for over a [[Books Beans Boots/Obsidian/year|year]]! In the [[Books Beans Boots/Obsidian/early|early]] days, it used to keep me [[Books Beans Boots/Obsidian/awake|awake]] at night.
 
