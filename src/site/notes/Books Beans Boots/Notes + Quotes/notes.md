@@ -7,6 +7,10 @@
 
 This section contains mostly notes I've sourced online, from emails or my reading. Very random and eclectic, it's intended to be a repository of ideas that seemed important or relevant at the time. You'll also find saved quotes too.
 
+## notes
+
+- 4 rules of [[Books Beans Boots/Notes + Quotes/kairomancy|kairomancy]]
+
 ## quotes
 
 - ideas are a disembodied, [[Books Beans Boots/Notes + Quotes/energetic|energetic]] life form
