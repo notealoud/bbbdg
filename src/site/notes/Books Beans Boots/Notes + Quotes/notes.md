@@ -9,6 +9,7 @@ This section contains mostly notes I've sourced online, from emails or my readin
 
 ## quotes
 
+- be [[Books Beans Boots/Notes + Quotes/interesting|interesting]] on the page
 - watching the [[Books Beans Boots/Notes + Quotes/oscars|oscars]] in your pyjamas
 
 🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
