@@ -3,7 +3,7 @@
 ---
 
 
-## reading
+## 🌿 reading
 
 Although I love books, these days I mostly read on my Kindle. Being able to carry around hundreds of books on one small device has always seemed like genius to me. I can even read using the Kindle app on my phone.
 
