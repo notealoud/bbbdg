@@ -9,8 +9,11 @@ This section contains mostly notes I've sourced online, from emails or my readin
 
 ## quotes
 
+- ideas are a disembodied, [[Books Beans Boots/Notes + Quotes/energetic|energetic]] life form
 - be [[Books Beans Boots/Notes + Quotes/interesting|interesting]] on the page
+- what would you say [[Books Beans Boots/Notes + Quotes/next|next]]?
 - watching the [[Books Beans Boots/Notes + Quotes/oscars|oscars]] in your pyjamas
+- making the self who will [[Books Beans Boots/Notes + Quotes/speak|speak]]
 - do [[Books Beans Boots/Notes + Quotes/stuff|stuff]]
 - living a [[Books Beans Boots/Notes + Quotes/successful|successful]] life
 
