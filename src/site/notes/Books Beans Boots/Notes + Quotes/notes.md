@@ -3,7 +3,7 @@
 ---
 
 
-## 🌱 notes + quotes
+## 🌿 notes + quotes
 
 This section contains mostly notes I've sourced online, from emails or my reading. Very random and eclectic, it's intended to be a repository of ideas that seemed important or relevant at the time. You'll also find saved quotes too.
 
@@ -14,6 +14,7 @@ This section contains mostly notes I've sourced online, from emails or my readin
 ## quotes
 
 - ideas are a disembodied, [[Books Beans Boots/Notes + Quotes/energetic|energetic]] life form
+- [[Books Beans Boots/Notes + Quotes/getting|getting]] on
 - be [[Books Beans Boots/Notes + Quotes/interesting|interesting]] on the page
 - what would you say [[Books Beans Boots/Notes + Quotes/next|next]]?
 - watching the [[Books Beans Boots/Notes + Quotes/oscars|oscars]] in your pyjamas
