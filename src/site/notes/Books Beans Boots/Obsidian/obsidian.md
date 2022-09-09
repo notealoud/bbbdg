@@ -13,4 +13,6 @@ It's thanks to Obsidian that I went all in as a writer. From Obsidian to PKM to 
 
 Writing became a possibility and it all started with Obsidian.
 
+A key player is Tiago Forte who talks about [mise en place](https://fortelabs.com/blog/mise-en-place-for-knowledge-workers/).
+
 🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
