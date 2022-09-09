@@ -3,7 +3,7 @@
 ---
 
 
-## have you found your rat people?
+## 🌿 have you found your rat people?
 
 Many moons ago, I came across Paul Jarvis. I found his style and process compelling. I loved his clean and simple website. Over the years I introduced Paul's writing to many friends and colleagues.
 
