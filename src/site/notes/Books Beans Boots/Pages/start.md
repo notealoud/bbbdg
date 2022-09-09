@@ -20,3 +20,5 @@ All notes include date created and last update.
 - [[Books Beans Boots/Reading/reading|reading]]
 - [[Books Beans Boots/Tech/tech|tech]]
 - [[Books Beans Boots/Writing/writing|writing]]
+
+*Last update: 8th September 2022*
