@@ -19,7 +19,7 @@ Then, one day, I decided I had to go all in with my writing. So I did.
 
 I write in Obsidian, both privately and in public. You can also find me on Medium and Substack. I like to write a daily [[Books Beans Boots/Writing/log|log]], and share writing logs for my Substack subscribers.
 
-As well as non-fiction I write short stories including The [[Books Beans Boots/Writing/undertaker|Undertaker]]. Plus The Death Certificate series. Current chapters include [[Books Beans Boots/Writing/alice|Alice]].
+As well as non-fiction I write short stories including The [[Books Beans Boots/Writing/undertaker|Undertaker]]. Plus The Death Certificate series. Current chapters include [[Books Beans Boots/Writing/alice|Alice]] and [[Books Beans Boots/Writing/ellen|Ellen]].
 
 Over many years I was inspired by the much missed [Paul Jarvis](https://usefathom.com/pjrvs) and his [[Books Beans Boots/Writing/rat|rat]] people.
 
