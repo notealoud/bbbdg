@@ -101,7 +101,7 @@ Peeling back the layers
 
 [[Book/1. The End/9.1 Release and let go|9.1 Release and let go]]
 [[Book/1. The End/9.2 The difference between letting go and the need to let go|9.2 The difference between letting go and the need to let go]]
-[[Book/1. The End/9.3 how letting go helps us find our way home|9.3 how letting go helps us find our way home]]
+[[9.3 how letting go helps us find our way home|9.3 how letting go helps us find our way home]]
 [[Book/1. The End/9.4 You must be able to do 3 things|9.4 You must be able to do 3 things]]
 
 No normal
