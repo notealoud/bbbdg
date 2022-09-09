@@ -21,4 +21,10 @@ I write in Obsidian, both privately and in public. You can also find me on Mediu
 
 As well as non-fiction I write short stories including The [[Books Beans Boots/Writing/undertaker|Undertaker]].
 
+Over many years I was inspired by the much missed [Paul Jarvis](https://usefathom.com/pjrvs) and his [[Books Beans Boots/Writing/rat|rat]] people.
+
+My book [Live Life Gently](https://booksbeansboots.co.uk/llgindex/) explores the journey we take to our truth, being ourselves and not [[Books Beans Boots/Writing/someone|someone]] else.
+
+I write about Paris and the [[Books Beans Boots/Writing/dance|dance]] I passed on.
+
 🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
