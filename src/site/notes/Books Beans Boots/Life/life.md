@@ -13,6 +13,8 @@ I share memories of places I've visited including a long time favourite, [[Books
 
 Inspired by a photographer I know, I started to create my own [[Books Beans Boots/Life/credo|credo]].
 
-Now I live in Derbyshire with my husband and his guide [[Books Beans Boots/Life/dog|dog]]. I love [[Books Beans Boots/Life/gardening|gardening]].
+Now I live in Derbyshire with my husband who is [[Books Beans Boots/Life/blind|blind]] and his guide [[Books Beans Boots/Life/dog|dog]]. We got [[Books Beans Boots/Life/married|married]] in Hoghton Tower where James I knighted the loin of beef. Chris doesn't want his [[Books Beans Boots/Life/sight|sight]] [[Books Beans Boots/Life/back|back]]. I write about disability and how to talk to a blind [[Books Beans Boots/Life/man|man]].
+
+I love [[Books Beans Boots/Life/gardening|gardening]] too.
 
 🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
