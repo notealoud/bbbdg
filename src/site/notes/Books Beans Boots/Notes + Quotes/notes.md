@@ -13,6 +13,7 @@ This section contains mostly notes I've sourced online, from emails or my readin
 
 ## quotes
 
+- it's not the [[Books Beans Boots/Notes + Quotes/critic|critic]] who counts
 - ideas are a disembodied, [[Books Beans Boots/Notes + Quotes/energetic|energetic]] life form
 - [[Books Beans Boots/Notes + Quotes/getting|getting]] on
 - be [[Books Beans Boots/Notes + Quotes/interesting|interesting]] on the page
