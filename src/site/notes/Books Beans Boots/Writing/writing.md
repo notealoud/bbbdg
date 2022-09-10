@@ -25,6 +25,6 @@ Over many years I was inspired by the much missed [Paul Jarvis](https://usefatho
 
 My book [Live Life Gently](https://booksbeansboots.co.uk/llgindex/) explores the journey we take to our truth, being ourselves and not [[Books Beans Boots/Writing/someone|someone]] else.
 
-I write about Paris and the [[Books Beans Boots/Writing/dance|dance]] I passed on.
+I write about the time I lived in Paris and met [[Books Beans Boots/Life/bill|Bill]] Murray, and on a later visit, the [[Books Beans Boots/Writing/dance|dance]] I passed on.
 
 🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
