@@ -21,6 +21,8 @@ I write in Obsidian, both privately and in public. You can also find me on Mediu
 
 As well as non-fiction I write short stories including The [[Books Beans Boots/Writing/undertaker|Undertaker]]. Plus The Death Certificate series. Current chapters include [[Books Beans Boots/Writing/alice|Alice]] and [[Books Beans Boots/Writing/ellen|Ellen]].
 
+Another passion project is the [[Books Beans Boots/Writing/retelling|retelling]] of Alice's story, the life and times of my maternal Grandmother.
+
 Over many years I was inspired by the much missed [Paul Jarvis](https://usefathom.com/pjrvs) and his [[Books Beans Boots/Writing/rat|rat]] people.
 
 My book [Live Life Gently](https://booksbeansboots.co.uk/llgindex/) explores the journey we take to our truth, being ourselves and not [[Books Beans Boots/Writing/someone|someone]] else.
