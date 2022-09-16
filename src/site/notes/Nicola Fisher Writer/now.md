@@ -9,25 +9,17 @@
 
 What I'm doing now ... 
 
-## shifting
+## gardening
 
-As my writing becomes my side hustle for a while, I find myself evolving in new directions. 
-
-My Instagram has become a private space for friends and family with fairly regular Stories and a once a week Round Up.
-
-I've regrouped on Substack. 
+Although I love the full bloom of Summer, I prefer the cooler Autumn days. I like tidying up the garden, pruning the potted plants and prepping the borders for Winter. The beauty of a partly potted garden is that it's a moveable feast. I clustered all the pots that were still in flower near the house so that they can catch the last rays of the sun.
 
 ## writing
 
-I'm going back to basics and prioritising my book. Inspired by Nicole Gulotta, I've reworked my website and the layout of Live Life Gently - Change the World. Nicole talks about Writing Seasons and, while a different premise to The Essence Map, made me realise I could rework the map milestones.
-
-## audio
-
-I love audio and this is becoming part of my Substack output. And possibly for my Twitter Circle.
+Although I'm writing a lot less, I'm enjoying it more. I've significantly pared back my plan giving myself one task a day. I'm using Otter and audio more which is easy to squeeze into a free five minutes here and there.
 
 ## obsidian
 
-I am still a huge fan of Obsidian. That, too, is undergoing a refresh, especially my published Digital Garden. I'm still contemplating what this looks like in this new phase of my life.
+I've given my Obsidian setup a refresh. I migrated my [digital garden](https://booksbeansboots.co.uk) from Markbase (which is very good) to the plugin Digital Garden (which I like too). I archived all my notes and am now pulling them out of their folder one at a time. They're all being reviewed, tidied up and backlinked together in a much more effective and Wiki-like way.
 
 ## reading
 
@@ -37,4 +29,4 @@ I am still a huge fan of Obsidian. That, too, is undergoing a refresh, especiall
 
 *Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about).*
 
-*Last update: 4th September 2022*
+*Last update: 16th September 2022*
