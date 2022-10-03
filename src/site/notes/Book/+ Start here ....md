@@ -43,6 +43,8 @@ To Chris, who saw me from the inside out from the very beginning.
 [[Book/9. Experiences|9. Experiences]]
 [[Book/10. About the Author|10. About the Author]]
 
+---
+
 🌀 ***return to [Live Life Gently](https://livelifegently.co.uk/)***
 
 ## Copyright
