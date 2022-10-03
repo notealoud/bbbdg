@@ -5,7 +5,7 @@
 
 ## 🌿 writing
 
-When I quit my day job in April 2019 in a bid to forge my own path, I came across someone who seemed to be doing exactly what I dreamed of. They had created a writing life. We spoke and then I went off in a different direction because I didn't think I should copy what she was doing.
+When I quit my day job in April 2019 in a bid to forge my own path and on a quest not to die with my [[Books Beans Boots/Writing/music|music]] still in me, I came across someone who seemed to be doing exactly what I dreamed of. They had created a writing life. We spoke and then I went off in a different direction because I didn't think I should copy what she was doing.
 
 For almost three more years, I did a range of other things. I was a self-employed Business Advisor, website creator, eCourse host. I talked a lot about living at a gentler pace and my Essence Map. The latter never really gained any traction.
 
