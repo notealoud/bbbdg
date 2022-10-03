@@ -25,7 +25,7 @@ To Chris, who saw me from the inside out from the very beginning.
 
 ## Contents
 
-Introduction: our lives are mapped out in cycles
+[[Book/0. Introduction|0. Introduction]]
 
 ### Cycles of Life
 
