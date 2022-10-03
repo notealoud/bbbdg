@@ -9,10 +9,6 @@
 
 ![](https://source.unsplash.com/hopX_jpVtRM/1900x1200)
 
-I'm loving a current trend called *writing out loud* where a book is written in public. I follow a few people who are creating in this way and wanted to try it myself.
-
-So, it makes you, essentially, a beta reader! I hope you enjoy watching the book take shape.
-
 **Live Life Gently ~ How to Change Your World** is a non-fiction book based on my explorations of the past decade or so. Focusing on the cycle of change that I call the Essence Map, this book takes the reader on a journey through the ebbs and flows of life, the potential found in pivotal moments, and the role that change plays in bringing us back to our essential self.
 
 This book is being written and compiled using a tool called [Obsidian](http://obsidian.md/), a notetaking app, which also has a publish function.
