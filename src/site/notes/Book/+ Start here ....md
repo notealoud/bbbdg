@@ -49,7 +49,7 @@ To Chris, who saw me from the inside out from the very beginning.
 
 ## Copyright
 
-Live Life Gently ~ Change the World
+Live Life Gently ~ How to Change Your World
 Copyright © 2022 Nicola Fisher
 
 All rights reserved. No part of this book may be reproduced in any form or by any electronic or mechanical means, including information storage and retrieval systems, without permission in writing from the author, except by reviewers, quoting brief passages in the context of a review.
