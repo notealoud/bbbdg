@@ -32,3 +32,7 @@ When we pare back the non essentials, we are left with only the essential.
 ### Read More
 
 [[Book/Archive/9. WIP/5. why the wood wide web holds the key to our future|5. why the wood wide web holds the key to our future]]
+
+---
+
+🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
