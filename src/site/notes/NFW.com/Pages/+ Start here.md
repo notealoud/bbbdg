@@ -31,6 +31,4 @@ I'm most at home with tech, spending time with cows and being out in nature. Wha
 
 [Listen to the Podcast](https://anchor.fm/liveagentlelife)
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
