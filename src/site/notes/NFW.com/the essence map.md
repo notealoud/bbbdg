@@ -23,8 +23,12 @@ It is our losses that teach us the most, and enable us to see who we truly are.
 
 > You’ll come to see that a man learns nothing from winning. The act of losing, however, can elicit great wisdom ~ Uncle Henry, A Good Year
 
-The End
-The Void
-The Beginning
-Essence
-Oneness
+[[NFW.com/the end|the end]]
+[[NFW.com/the void|NFW.com/the void]]
+[[NFW.com/the beginning|the beginning]]
+[[NFW.com/essence|NFW.com/essence]]
+[[NFW.com/oneness|oneness]]
+
+---
+
+🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
