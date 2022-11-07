@@ -19,3 +19,7 @@ After the ending you have the void, a period designed for healing, regrouping, a
 
 [[Book/Archive/9. WIP/2. when you're ebbing rather than flowing you might need to refill the well|2. when you're ebbing rather than flowing you might need to refill the well]]
 [[Book/Archive/9. WIP/2. how the tide will finally turn after periods of limbo|2. how the tide will finally turn after periods of limbo]]
+
+---
+
+🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
