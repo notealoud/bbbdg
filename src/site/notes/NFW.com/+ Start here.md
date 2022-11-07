@@ -23,13 +23,10 @@ I'm most at home with tech, spending time with cows and being out in nature. Wha
 
 [[Get to Know More About Me|Get to Know More About Me]]
 
+### Podcast
+
 [Listen to the Podcast](https://anchor.fm/liveagentlelife)
 
 ---
 
-🌀 ***return to [Live Life Gently](https://livelifegently.co.uk/)***
-
-## Copyright
-
-Live Life Gently ~ How to Change Your World
-Copyright © 2022 Nicola Fisher
+🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
