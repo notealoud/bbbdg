@@ -23,6 +23,4 @@ The Essence Map is all about that route back to ourselves. The self that feels i
 
 By sharing that genius, we encourage others to do the same. And that’s where the magic starts to happen. We light the touch paper for someone. We ignite the spark for them. And the ripples continue. I’m convinced that, the more we live in alignment with our essence, our blueprint, our genius, the greater our impact on the world around us.
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
