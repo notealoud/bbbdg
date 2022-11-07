@@ -67,6 +67,4 @@ I believe that positive change starts when we embrace those things that bring us
 
 > We are all One
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
