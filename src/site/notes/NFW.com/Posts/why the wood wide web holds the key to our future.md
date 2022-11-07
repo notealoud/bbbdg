@@ -51,6 +51,4 @@ I don’t have all the answers. I do, however, believe that we need to see ourse
 
 You might enjoy [Forest, an experiential Poem in Four Stanzas](https://emergencemagazine.org/story/forest/).
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
