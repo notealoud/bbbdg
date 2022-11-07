@@ -21,3 +21,7 @@ But endings catapult us to a new place, somewhere we’re meant to be for our pe
 
 [[Book/Archive/1. The End/5.1 when your life changes, it changes you|5.1 when your life changes, it changes you]]
 [[Book/Archive/9. WIP/6. Why walking through fire is our way home|6. Why walking through fire is our way home]]
+
+---
+
+🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
