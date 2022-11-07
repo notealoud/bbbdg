@@ -11,3 +11,7 @@
 [[08. Notes/why it doesn't pay to be a shrinking violet copy|why it doesn't pay to be a shrinking violet copy]]
 [[Book/Archive/4. Essence/how your purpose finds you when you least expect it|Book/Archive/4. Essence/how your purpose finds you when you least expect it]]
 
+---
+
+🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
+
