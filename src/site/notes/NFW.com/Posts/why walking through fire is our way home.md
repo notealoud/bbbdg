@@ -147,6 +147,4 @@ But the journey is for us to travel alone. On that road, we will meet with our f
 
 I wish for you to have the courage to step back when everyone else rushes forward, to listen to your heart and soul and know what truth is for you, to be able to walk through the fire knowing that is the only way home.
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
