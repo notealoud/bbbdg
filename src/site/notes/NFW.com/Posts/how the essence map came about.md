@@ -59,6 +59,4 @@ It can often feel as though we don't have choices, and there's a longer conversa
 > 
 > Selacia. [The Spiritual Compass to 2021](https://smile.amazon.co.uk/Spiritual-Compass-2021-Selacia-ebook/dp/B098S9T8M7/ref=sr_1_1?dchild=1&keywords=the+spiritual+compass+to+2021&qid=1626340284&sr=8-1)
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
