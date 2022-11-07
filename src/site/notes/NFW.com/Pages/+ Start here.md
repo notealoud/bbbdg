@@ -3,7 +3,7 @@
 ---
 
 
-## live life gently
+## Nicola Fisher ~ Writer
 
 *Our lives follow seasons and cycles. Endings herald new beginnings. Pivotal moments lead us to our truth. We walk a path that is laid out for us. We just need the map.*
 
