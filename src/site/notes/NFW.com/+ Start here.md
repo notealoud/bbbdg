@@ -15,13 +15,13 @@ We can change the world when we live life gently.
 
 The Essence Map is our guide through the ebb and flow of life. It leads us to our truth, to our very essence. If we have a sense that there is something more, something as yet untapped, the Essence Map will help us uncover who we truly are.
 
-[[Discover the Essence Map|Discover the Essence Map]]
+Discover [[NFW.com/the essence map|the essence map]]
 
 ### Hi, I'm Nicola!
 
 I'm most at home with tech, spending time with cows and being out in nature. What about you?
 
-[[Get to Know More About Me|Get to Know More About Me]]
+Get to know more [[NFW.com/about|NFW.com/about]] me
 
 ### Podcast
 
