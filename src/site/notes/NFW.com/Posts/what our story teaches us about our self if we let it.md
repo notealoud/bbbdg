@@ -37,6 +37,4 @@ But I’ve realised that this story is part of who I am and until I own it, I ca
 
 I know for sure that all these experiences have made me who I am today. I’m immensely grateful for my pragmatism and also my desire to approach life in my own way, not my Mum’s. It’s made me tough and able to deal with things alone. It made me hugely independent.
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
