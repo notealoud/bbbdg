@@ -45,7 +45,5 @@ Many times I’ve lost and found my mojo, only to lose it again. But, knowing wh
 
 As is the case in nature, nothing will bloom unless you first sow the seeds. And then you wait. And then you wait some more. You think nothing is happening but you look again and see that little shoots have been growing.
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
 
