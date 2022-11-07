@@ -65,6 +65,4 @@ There’s really only today. Although I like to look ahead, to plan the next yea
 
 We can only be where we are right now. That’s the best place to be.
 
----
-
 🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
