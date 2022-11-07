@@ -3,7 +3,7 @@
 ---
 
 
-## live life gently - how to change your world
+## live life gently
 
 *Guiding you back to your essence through the pivotal moments and milestones on your journey*
 
