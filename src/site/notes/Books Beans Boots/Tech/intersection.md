@@ -5,7 +5,7 @@
 
 ## 🌱 the intersection of tech and living a gentle life
 
-I had no idea when I first came across [[Books Beans Boots/Obsidian/obsidian|Obsidian]] (a [[notetaking|notetaking]] app - think Evernote with wings) in April earlier this year just how far reaching its impact would be for me.
+I had no idea when I first came across [[Obsidian|Obsidian]] (a [[notetaking|notetaking]] app - think Evernote with wings) in April earlier this year just how far reaching its impact would be for me.
 
 I'd signed up to Evernote back in 2009 and stuck with it for years until I found, first, Bear and then Notion, followed by a brief dabble with OneNote, and countless other shiny things. I expected Obsidian to be something similar. 
 
