@@ -5,7 +5,7 @@
 
 ## 🌳 start here
 
-[[bio|bio]]
+[[Books Beans Boots/Pages/bio|bio]]
 my [[Books Beans Boots/Pages/notes|notes]]
 [my book](https://booksbeansboots.co.uk/llgindex)
 
