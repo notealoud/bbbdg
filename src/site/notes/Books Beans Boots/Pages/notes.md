@@ -20,7 +20,7 @@ love is [[Books Beans Boots/Life/blind|blind]]
 the bond between a blind man and his guide [[Books Beans Boots/Life/dog|dog]]
 I met a blind man and, reader, I [[Books Beans Boots/Life/married|married]] him!
 my husband lost his [[Books Beans Boots/Life/sight|sight]] but gained a new life
-[[Books Beans Boots/Life/back|back]]
+if you lost your sight, would you want it [[Books Beans Boots/Life/back|back]]
 don't put the blind [[Books Beans Boots/Life/man|man]] in the corner
 [[Books Beans Boots/Life/gardening|gardening]]
 my favourite [[Books Beans Boots/Life/mugs|mugs]] and the memories they hold
