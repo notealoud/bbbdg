@@ -16,7 +16,7 @@ don't fear [[Books Beans Boots/Life/endings|endings]], embrace them
 this is a [[Books Beans Boots/Life/pivotal|pivotal]] moment 
 [[Books Beans Boots/Life/chesters|Chesters]].
 my [[Books Beans Boots/Life/credo|credo]]: 10 things I believe about life
-[[love|love]] is blind
+love is [[Books Beans Boots/Life/blind|blind]]
 the bond between a blind man and his guide [[Books Beans Boots/Life/dog|dog]]
 I met a blind man and, reader, I [[Books Beans Boots/Life/married|married]] him!
 my husband lost his [[Books Beans Boots/Life/sight|sight]] but gained a new life
