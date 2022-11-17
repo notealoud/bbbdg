@@ -5,7 +5,7 @@
 
 ## 🌳 start here
 
-[about](https://booksbeansboots.co.uk/aboutnicola)
+[[07 Blot (archive)/pages/about|about]] me
 my [[Books Beans Boots/Pages/notes|notes]]
 [my book](https://booksbeansboots.co.uk/llgindex)
 Codex Vitae (coming soon)
