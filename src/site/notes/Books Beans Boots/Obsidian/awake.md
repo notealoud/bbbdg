@@ -5,7 +5,7 @@
 
 ## 🌿 why Obsidian is keeping me awake at night
 
-I make no apologies for being almost evangelical about [[Books Beans Boots/Obsidian/obsidian|Obsidian]]. But it has given me a lot of sleepless nights!
+I make no apologies for being almost evangelical about [[Obsidian|Obsidian]]. But it has given me a lot of sleepless nights!
 
 Back in April when I first downloaded Obsidian and set about creating my Digital Garden, I was in awe of the depth and breadth of the app, and the sheer scale of the possibilities it promised. I read everything I could find about other people's setups, and watched every YouTube video available. The synapses were firing as I joined the dots of Obsidian's potential.
 
