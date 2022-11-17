@@ -7,10 +7,9 @@
 
 ## 🌳 welcome
 
-I'm Nicola and this is my Digital Garden - you're reading my published Obsidian notes. Some of these are works in progress, some merely ideas or headlines, others may have been published elsewhere. Some notes, and my thinking, may be incomplete.
+I'm Nicola and this is my Digital Garden.
 
-The range of topics reflects my eclectic fascinations from tech, writing, to the esoteric. 
+## read my notes
 
-You can learn more [about me](https://booksbeansboots.co.uk/aboutnicola), [[Books Beans Boots/Pages/subscribe|subscribe]] to my newsletter, and find out what I'm doing [now](https://nicolafisherwriter.co.uk/now).
+[[Books Beans Boots/Pages/start|start]] here
 
-To read my notes, [[Books Beans Boots/Pages/start|start]] here.
