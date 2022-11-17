@@ -7,5 +7,5 @@
 
 ## 🌳 welcome
 
-I'm Nicola and this is my Digital Garden. [[Books Beans Boots/Pages/start|Start]] here.[[topics|topics]]
+I'm Nicola and this is my Digital Garden. [[Books Beans Boots/Pages/start|Start]] here.
 
