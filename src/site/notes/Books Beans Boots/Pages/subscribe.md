@@ -7,13 +7,7 @@
 
 ## 🌳 subscribe
 
-I publish a weekly newsletter. 
-
----
-
-## books beans boots
-
-I write on Substack and send out [a weekly newsletter.](https://booksbeansboots.substack.com/)
+I write on Substack and send out [an ad hoc newsletter.](https://booksbeansboots.substack.com/)
 
 <iframe src="https://booksbeansboots.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
