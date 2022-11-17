@@ -5,10 +5,9 @@
 
 ## 🌳 start here
 
-[[07 Blot (archive)/pages/about|about]] me
+[[bio|bio]]
 my [[Books Beans Boots/Pages/notes|notes]]
 [my book](https://booksbeansboots.co.uk/llgindex)
-Codex Vitae (coming soon)
 
 
 
