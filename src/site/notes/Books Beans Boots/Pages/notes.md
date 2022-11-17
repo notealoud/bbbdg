@@ -45,7 +45,7 @@ the [[Books Beans Boots/Writing/undertaker|undertaker]]
 don't try to be like [[Books Beans Boots/Writing/someone|someone]] else
 the [[Books Beans Boots/Writing/retelling|retelling]] of alice's story
 have you found your [[Books Beans Boots/Writing/rat|rat]] people?
-don't die with your [[04 Projects/Boot Club/Music|music]] still in you
+don't die with your [[04 Projects/Boot Club/Music2|Music2]] still in you
 why you need to keep a daily [[Books Beans Boots/Writing/log|log]]
 if someone asks you to [[Books Beans Boots/Writing/dance|dance]], say yes
 
