@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-<a rel="me" href="https://pkm.social/@nicola">Mastodon</a>
+
 
 ![](https://source.unsplash.com/r49MK_VzMU0/1900x1200)
 
