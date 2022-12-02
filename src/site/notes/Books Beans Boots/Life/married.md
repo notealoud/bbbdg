@@ -32,5 +32,3 @@ We laughed. A lot.
 Chris embraces all of my quirks (there are a few!). He encourages me to embrace them too. He's seen who I truly am.
 
 We are Team Fisher. Both there for each other.
-
-***go back to [[Books Beans Boots/Pages/start|start]]***
