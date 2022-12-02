@@ -12,3 +12,7 @@ Jimmy Kimmel said to [[Books Beans Boots/Life/bill|Bill]] Murray: It seems like 
 Bill Murray said: Gilda Radner was rich so she would go into these auditions and not care at all whether she got them. So they were so dazzled by her lack of caring they would be dying to give her the role.  
   
 He continued: So I figured, I’m not rich but I’ll just pretend like I am so I won’t care at all and see what happens and I’ve been doing it ever since.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
