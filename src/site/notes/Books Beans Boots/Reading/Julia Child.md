@@ -18,3 +18,7 @@ The book falls into the category of unputdownable. I find myself immersed in her
 Although I'm not passionate about cooking, I enjoy Julia's journey as a chef. Her descriptions of memorable meals whet my appetite. 
 
 Somehow, we are there with her, in Paris, in France and even in England. This book is part autobiography, part personal diary, and why I'm finding it such compelling reading.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
