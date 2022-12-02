@@ -120,3 +120,7 @@ Alice Bailey
 Age: 43
 Cause of death: road traffic accident
 Date: 21 November 1973 15:09
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
