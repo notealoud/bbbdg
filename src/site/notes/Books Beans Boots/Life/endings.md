@@ -40,3 +40,7 @@ Change is inevitable. The more you can be open to the changes presenting themsel
 Welcome change with open arms. It will make all the difference.
 
 Understanding this roadmap has helped me navigate loss more easily. Simply because I know that there is always light at the end of the tunnel.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
