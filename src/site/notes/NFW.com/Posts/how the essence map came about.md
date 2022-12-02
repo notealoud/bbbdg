@@ -58,5 +58,3 @@ It can often feel as though we don't have choices, and there's a longer conversa
 > We are alive now to help co-create a brand-new world and way of being that previously did not exist on Earth. To serve in this way, we are asked to go beyond the norms of past generations and bravely walk through unfamiliar terrain without a map. This takes great courage, dedication, and above all connection with our essence.
 > 
 > Selacia. [The Spiritual Compass to 2021](https://smile.amazon.co.uk/Spiritual-Compass-2021-Selacia-ebook/dp/B098S9T8M7/ref=sr_1_1?dchild=1&keywords=the+spiritual+compass+to+2021&qid=1626340284&sr=8-1)
-
-🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
