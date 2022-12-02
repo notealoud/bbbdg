@@ -15,7 +15,7 @@ read [my book](https://booksbeansboots.co.uk/llgindex)
 
 ## read my blog
 
-[[Books Beans Boots/Blog/I miss blogging|I miss blogging]]
+02/12/2022: [[Books Beans Boots/Blog/I miss blogging|I miss blogging]]
 
 
 
