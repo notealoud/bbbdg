@@ -61,3 +61,8 @@ making the self who will [[Books Beans Boots/Notes + Quotes/speak|speak]]
 do [[Books Beans Boots/Notes + Quotes/stuff|stuff]]
 living a [[Books Beans Boots/Notes + Quotes/successful|successful]] life
 
+---
+
+Back to the [[Books Beans Boots/Pages/start|start]]
+
+
