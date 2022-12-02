@@ -26,3 +26,7 @@ A long pause.
 “Why not?”
 
 “Because,” butts in his 12-year-old brother, bouncing his football in a forceful rhythm, “it shows – that we – exist.”
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
