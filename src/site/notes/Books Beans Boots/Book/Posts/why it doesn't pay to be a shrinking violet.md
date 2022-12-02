@@ -22,3 +22,7 @@ But, also, given where we’re at as a collective, sovereignty is key for us all
 The Essence Map is all about that route back to ourselves. The self that feels in alignment with who we are truly meant to be. The journey is about learning that there is nothing wrong with us. We are each a unique expression of the creative energy that drives the cosmos. We are not meant to be the same as anyone else. The purpose of our lives is to share the genius that is ours alone.
 
 By sharing that genius, we encourage others to do the same. And that’s where the magic starts to happen. We light the touch paper for someone. We ignite the spark for them. And the ripples continue. I’m convinced that, the more we live in alignment with our essence, our blueprint, our genius, the greater our impact on the world around us.
+
+---
+
+Return to [[Books Beans Boots/Book/table of contents|Table of Contents]]
