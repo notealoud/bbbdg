@@ -65,3 +65,7 @@ Cause of death: accidental, choking
 Date: 12 June 1982 00:27
 
 "You didn't see that one coming", he said out loud, to no-one in particular.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
