@@ -26,3 +26,7 @@ Later Paris Match mentioned his favourite restaurant. By then Bill had gone back
 - [[Books Beans Boots/Life/meeting|Meeting]] Bill Murray in Paris
 - Bill Murray and [[Books Beans Boots/Life/gilda|Gilda]] Radner
 - How the [[Books Beans Boots/Life/razor|Razor]]'s Edge changed Bill Murray's Life
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
