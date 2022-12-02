@@ -26,5 +26,3 @@ Although I loved the earlier template I was using, I've settled on a white backg
 - [Obsidian Basics](https://publish.obsidian.md/lyt-kit/Hiding+content+in+plain+sight#LYT+Special+Session+-+Obsidian+Help)
 - [A second brain,  for you, forever.](https://obsidian.md/)
 - [Building a second brain](https://maggieappleton.com/basb) 
-
-🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
