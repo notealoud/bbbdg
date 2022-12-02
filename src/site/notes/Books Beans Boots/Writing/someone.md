@@ -74,3 +74,7 @@ Then, fast forward.
 We now live in the Derbyshire Dales, a beautiful and rural part of the country, in a small village, surrounded by fields, cows and sheep.
 
 Perhaps this was my break away. Moving somewhere very different, and building a life uniquely of my own making. Maybe that’s how we transcend.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
