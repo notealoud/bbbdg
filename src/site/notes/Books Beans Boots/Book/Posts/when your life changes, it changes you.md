@@ -64,3 +64,7 @@ I’ve had to make this alone time happen. It’s all too easy for days to merge
 There’s really only today. Although I like to look ahead, to plan the next year, to list goals, all we have is this moment, this day. I’ve learned that we have to find our joy in the now, not some yet to happen and unknown future.
 
 We can only be where we are right now. That’s the best place to be.
+
+---
+
+Return to [[Books Beans Boots/Book/table of contents|Table of Contents]]
