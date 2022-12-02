@@ -30,5 +30,3 @@ It was time to wipe the slate clean, to let go of some of the silly little thing
 I finally felt ready. We were moving to a new house and I wanted it to be filled with us and our life together, and dotted around with those special things that will always remind me of my Mum and Dad.
 
 We embarked on a brand new adventure. We didn’t know what was around the corner but I could sense lots of new beginnings.
-
-🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
