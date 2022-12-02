@@ -42,5 +42,3 @@ While Chris is very gung ho, it's easy for him to be isolated. All he needs is a
 ## step 3: just be kind
 
 The best approach is, be nice, be kind. Treat everyone the way you wish to be treated, not just the blind or visually impaired. You won't go far wrong.
-
-***go back to [[Books Beans Boots/Pages/start|start]]***
