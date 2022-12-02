@@ -1,13 +1,28 @@
 ---
-{"dg-publish":true,"dg-permalink":"start","permalink":"/start/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"start","permalink":"/start/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
-## 🌳 start here
+## 🌳 welcome
+
+![](https://source.unsplash.com/hpjihlapEXg/1900x1200)
+
+I'm Nicola and this is my Digital Garden.
 
 [[Books Beans Boots/Pages/bio|bio]]
-my [[Books Beans Boots/Pages/notes|notes]]
-[my book](https://booksbeansboots.co.uk/llgindex)
+read my [[Books Beans Boots/Pages/notes|notes]]
+read [my book](https://booksbeansboots.co.uk/llgindex)
+
+## read my blog
+
+[[Books Beans Boots/Blog/I miss blogging|I miss blogging]]
+
+
+
+
+
+
+
 
 
 
