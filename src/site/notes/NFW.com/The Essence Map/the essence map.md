@@ -30,5 +30,3 @@ It is our losses that teach us the most, and enable us to see who we truly are.
 [[NFW.com/The Essence Map/the beginning|the beginning]]
 [[NFW.com/The Essence Map/essence|essence]]
 [[NFW.com/The Essence Map/oneness|oneness]]
-
-🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
