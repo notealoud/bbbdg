@@ -28,5 +28,3 @@ We became the greatest of friends. I still thought my life was on a different tr
 ## life has other plans for you
 
 Fast forward six years. Including a fairy tale wedding. A dream life in the country with a man who makes me laugh every day and who still sees me better than anyone.
-
-🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
