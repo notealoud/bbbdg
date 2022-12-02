@@ -98,3 +98,7 @@ I can’t speak for Mike or Tom, but I know that Chris became who he believes he
 That’s what we all do.
 
 We journey past various milestones in our lives, each one giving us the opportunity to see more clearly who we are, until we reconnect with our essence and who we are meant to be.
+
+---
+
+Return to [[Books Beans Boots/Book/table of contents|Table of Contents]]
