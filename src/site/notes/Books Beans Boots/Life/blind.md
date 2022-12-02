@@ -68,5 +68,3 @@ Just as our relationship was beginning to unfold, my Dad died unexpectedly. Look
 In September 2018, Chris and I got married in a local stately home. It was a reflection of us and exactly what we wanted. Very low key, we chose a steam punk theme, and had an afternoon tea. We organised it ourselves and didn't have any flowers because I ran out of time to buy them. No-one noticed. There were tears of joy and we signed the register with a fountain pen turned by Chris.
 
 We've not yet been married two years but it feels much longer. In a good way! We read each other's thoughts, are on the same wavelength, and share similar values. We often say, who could have imagined six years ago that I would have met and married a blind man when I was in my fifties, and lived happily ever after. You just never know what life has in store for you.
-
-***go back to [[Books Beans Boots/Pages/start|start]]***
