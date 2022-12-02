@@ -21,5 +21,3 @@ But endings catapult us to a new place, somewhere we’re meant to be for our pe
 
 [[NFW.com/Posts/when your life changes, it changes you|when your life changes, it changes you]]
 [[NFW.com/Posts/why walking through fire is our way home|why walking through fire is our way home]]
-
-🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
