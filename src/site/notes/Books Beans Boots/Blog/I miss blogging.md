@@ -11,7 +11,7 @@ My blog was quirky random jottings about my day to day. Part diary, part observa
 
 Publishing online with Obsidian and a return to the tiny web harks back to the good old days. It's almost as if we have come full circle. 
 
-We've been distracted by Twitter and then Instagram. Now, they are losing, or already have lost, their appeal. That love affair is over. But, what next? Despite trying Mastodon, it's still very close to Twitter and doesn't give that warm fuzzy feeling that a favourite blog did. 
+We've been distracted by Twitter and then Instagram. Now, they are losing, or have already lost, their appeal. That love affair is over. But, what next? Despite trying Mastodon, it's still very close to Twitter and doesn't give that warm fuzzy feeling that a favourite blog did. 
 
 Perhaps we want control over the content we consume again. I certainly don't want to see stuff that doesn't interest or appeal to me. That includes television - we stopped watching years ago and ceased buying a TV Licence. I don't miss any of it. I don't watch the news either. 
 
