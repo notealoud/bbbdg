@@ -20,3 +20,7 @@ This structure gives me a weekly plan, accountability and the momentum to keep o
 The whole PKM journey has reignited my love of discovery. Not only am I writing more, but I'm reading more widely and leap frogging from idea to idea. It has been a game changer in so many ways.
 
 It's introduced me to a whole new world of apps, to people I might otherwise never have spoken to, and brought me an incredible sense of fulfilment. It's become a way of life.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
