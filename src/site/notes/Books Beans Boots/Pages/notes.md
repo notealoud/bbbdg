@@ -25,17 +25,14 @@ don't put the blind [[Books Beans Boots/Life/man|man]] in the corner
 [[Books Beans Boots/Life/gardening|gardening]]
 my favourite [[Books Beans Boots/Life/mugs|mugs]] and the memories they hold
 
-## Obsidian
+## tech
 
+the [[Books Beans Boots/Tech/intersection|intersection]] of tech and living a gentle life
 why I'm [[Books Beans Boots/Obsidian/obsessed|obsessed]] with Obsidian 
 one [[Books Beans Boots/Obsidian/year|year]] of Obsidian
 my [[Books Beans Boots/Obsidian/early|early]] days with Obsidian 
 why Obsidian is keeping me [[Books Beans Boots/Obsidian/awake|awake]] at night
 why [[Books Beans Boots/Obsidian/pkm|pkm]] is a game changer 
-
-## tech
-
-the intersection of tech and living a gentle life
 
 ## writing
 
