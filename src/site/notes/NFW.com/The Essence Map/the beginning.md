@@ -8,5 +8,3 @@
 ### Read More
 
 [[NFW.com/Posts/what our story teaches us about our self if we let it|what our story teaches us about our self if we let it]]
-
-🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
