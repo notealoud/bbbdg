@@ -20,3 +20,7 @@ It took four years of walking through fire for Chris to come out the other side.
 Losing your sight is not just an overnight transition. So, it's quite possible that regaining your sight could be a similar experience in reverse.
 
 Mostly though, Chris is happy with who he is. A blind man.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
