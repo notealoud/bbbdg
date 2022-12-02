@@ -26,5 +26,3 @@ In Illusions, Richard Bach writes: _You are never given a dream without also bei
 _“Don’t die with your music still in you. Don’t die with your purpose unfulfilled. Don’t die feeling as if your life has been wrong. Don’t let that happen to you” ~ Wayne Dyer_
 
 The music won’t be denied. It will keep singing to you until you either take notice or you die.
-
-***go back to [[Books Beans Boots/Pages/start|start]]***
