@@ -7,7 +7,7 @@
 
 ![](https://source.unsplash.com/R-Mj0aB4DMU/1900x1200)
 
-### Hi, I'm Nicola and this is my Digital Garden!
+## Hi, I'm Nicola and this is my Digital Garden!
 
 I'm most at home with tech, spending time with cows and being out in nature. 
 
