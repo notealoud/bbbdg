@@ -10,5 +10,3 @@
 > It formalizes the process everyone goes through, of making the self who will speak, of settling on what values and interests and priorities will shape your path and persona.”
 > 
 > **– Rebecca Solnit,** _[**Recollections of My Non-Existence**](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=03e50a3e84&e=bc5cbc9b90)_
-
-***go back to [[Books Beans Boots/Pages/start|start]]***
