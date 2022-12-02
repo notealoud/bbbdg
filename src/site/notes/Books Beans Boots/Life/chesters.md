@@ -22,3 +22,7 @@ Gone were the nice tables and chairs, and sofas. They were replaced by school di
 Now, according to the reviews, it's declined even further. Self-service and clean up after yourselves.
 
 Chesters was an iconic place in the Lake District. I have so many memories there. It was a constant in my life. 
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
