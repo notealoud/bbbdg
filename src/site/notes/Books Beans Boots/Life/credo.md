@@ -24,3 +24,7 @@
 9. Talk to the people no-one else wants to talk to. Seek out those who are different, and on the periphery. Their stories will most likely fascinate you.
 
 10. Say what is usually unspoken. Don't dodge the big topics. Sometimes a double-edged sword! Face life head on.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
