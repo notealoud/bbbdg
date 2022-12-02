@@ -50,5 +50,3 @@ Equally, and I’m taking a punt here as I haven’t got any empirical evidence,
 I don’t have all the answers. I do, however, believe that we need to see ourselves and the natural world around us as fellow beings, neighbours on this planet of ours, each with a common purpose. It is this approach that I believe will enable us to save our world.
 
 You might enjoy [Forest, an experiential Poem in Four Stanzas](https://emergencemagazine.org/story/forest/).
-
-🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
