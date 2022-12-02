@@ -17,3 +17,7 @@ Perhaps we want control over the content we consume again. I certainly don't wan
 
 We need to create and curate our own content. Find our niche. Discover what lights us up. Not only is this good for our soul, it's good for the world. As more and more people unsubscribe from the doom merchants we increase the sum of human happiness. 
 
+---
+
+Return to [[Books Beans Boots/Pages/blog|Blog]] Index
+
