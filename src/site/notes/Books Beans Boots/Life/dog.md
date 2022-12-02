@@ -18,3 +18,7 @@ The bond between the two of them runs deep. Whenever I take Bamber for a walk, h
 Bamber is now 5 and he and Chris have become a well oiled machine. Out and about, Bamber works like a trouper, finding pedestrian crossings, guiding Chris around town, taking him where he needs to go, giving him independence. They communicate silently, each movement through the harness sending signals both ways.
 
 There's a mutual, deep love between them. It's a special thing.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
