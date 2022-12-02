@@ -3,6 +3,8 @@
 ---
 
 
+![](https://source.unsplash.com/Z4FahNcnoGQ/1900x1200)
+
 ## life
 
 if you lost your sight would you want it [[Books Beans Boots/Life/back|back]]?
