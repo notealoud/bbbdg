@@ -74,3 +74,7 @@ publish
 The combination of all of the above has helped me create a more productive and prolific writing practice. At the heart of everything is Obsidian, which is the start and end point of everything I create.
 
 It could have been overwhelming but by streamlining my process, creating a workflow diagram and then replicating that in a ClickUp sequence, I’ve seen where I can work smarter.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
