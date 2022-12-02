@@ -10,6 +10,3 @@
 [[NFW.com/Posts/how the essence map came about|how the essence map came about]]
 [[NFW.com/Posts/why it doesn't pay to be a shrinking violet|why it doesn't pay to be a shrinking violet]]
 [[08. Notes/how your purpose finds you when you least expect it|how your purpose finds you when you least expect it]]
-
-🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
-
