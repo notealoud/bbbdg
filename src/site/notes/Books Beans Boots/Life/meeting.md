@@ -32,3 +32,7 @@ But how does the American (actor) student dress in Paris?  Dark glasses and “
 However, can’t hang around here all day when there’s the library waiting or maybe even a class to go to.
 
 (Note written in 1985 in Paris on Marie-Jo's typewriter).
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
