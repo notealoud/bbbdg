@@ -14,5 +14,3 @@ Night after night, I would lie in bed, trying to get to sleep, when one idea aft
 Obsidian was all I thought - and talked - about. Every day I would tell my husband about the latest discovery I'd made - a new plugin, a different approach, another way to extend my experience. He listened even though he couldn't make head nor tail of what I was telling him.
 
 Finally, normal sleep returned. Until recently, when my reading inspired a review of my workflow and led me to create a more systemised approach to content creation. Another revolution has taken place, and one that's waking me up again in the middle of the night!
-
-🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
