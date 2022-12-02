@@ -22,3 +22,7 @@ We had barely scratched the surface when my Dad died and the garden became bitte
 Now we live in Derbyshire. Our outside space is tiny by comparison but evolving into a bijou courtyard garden. With potting shed, bench and arch, it's a place to sit and enjoy. The hellebores remind me of my Dad. A lavender cutting from a plant named Vera, like my Mum, survived three months of holiday lets in between house sale and purchase. There are rose bushes, verbena, love in a mist, poppies, and pots galore. Each one with the promise of a Summer display.
 
 This is the first garden I've created from scratch. It's completely of my making yet all those years of gardening with my Dad are the thread that runs through it.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
