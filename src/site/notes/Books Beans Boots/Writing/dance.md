@@ -16,5 +16,3 @@ A thin guy with bleached blonde hair, wearing a waistcoat and cravat approached 
 It would have been a moment, a memory. One of those crazy magical things that happen in Paris. Something that I could have looked back on and remembered. Instead, the story ends there. And I will forever wish I'd said Yes.
 
 Thirty years later, I still have the image in my head of the guy. Like a moment captured on film. It would have just been a dance. I think of that missed opportunity often, especially when I might hesitate now to seize the day. And remind myself to just do it, have that moment, make that memory.
-
-***go back to [[Books Beans Boots/Pages/start|start]]***
