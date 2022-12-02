@@ -146,5 +146,3 @@ It’s in those endings that we have the power to redefine who we are and to cre
 But the journey is for us to travel alone. On that road, we will meet with our fellow travellers and recognise ourselves in them. It is only when we truly see each other that we understand our shared purpose.
 
 I wish for you to have the courage to step back when everyone else rushes forward, to listen to your heart and soul and know what truth is for you, to be able to walk through the fire knowing that is the only way home.
-
-🌀 ***return to [Nicola Fisher Writer](https://booksbeansboots.co.uk/nfwstart/)***
