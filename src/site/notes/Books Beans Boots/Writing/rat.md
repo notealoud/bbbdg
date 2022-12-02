@@ -18,5 +18,3 @@ I wanted to step away from the conventional 9-5, Monday to Friday and carve out 
 My hope is that I will find my own rat people along the way, others who, like me, want to adopt a different pace of life while still sharing their skills and passions, and supporting themselves financially.
 
 I’m on a quest to find that something else. A different way of being and living that makes sense and provides the personal fulfilment that many of us crave.
-
-***go back to [[Books Beans Boots/Pages/start|start]]***
