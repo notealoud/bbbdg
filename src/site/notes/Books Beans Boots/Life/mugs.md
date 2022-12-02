@@ -38,5 +38,3 @@ I’ve been trying to define what it is about mugs that make them so appealing t
 I’ve no doubt that the number of mugs I own will continue to grow, especially as I’ll probably never be able to part with those mugs that symbolise the chapters of my life with my Mum and Dad, and because I can never resist a nice mug!
 
 I hope that the mugs in your kitchen cupboard or on your mug tree evoke as many happy memories as my little collection!
-
-🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
