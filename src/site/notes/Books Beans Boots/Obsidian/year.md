@@ -84,3 +84,7 @@ As well as being my writing hub, Obsidian is a repository for key information, d
 This has been a phenomenal conference hosted by Nick Milo. I’ve been inspired by the speakers and have updated my setup in light of what I’ve learned. I’ll be sharing some of these changes in a future post.
 
 Needless to say, Obsidian remains a key tool in my arsenal. It simply gets better and better.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
