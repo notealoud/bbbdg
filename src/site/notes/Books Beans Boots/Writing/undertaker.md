@@ -236,3 +236,7 @@ Further stories about the fire appeared in newspapers over the following days. T
 Adam put down the newspaper and grinned.
 
 The phone rang. It was Mick.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
