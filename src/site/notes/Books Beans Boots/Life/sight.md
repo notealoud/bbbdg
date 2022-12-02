@@ -18,5 +18,3 @@ Becoming blind took Chris on a whole new journey, one he had never imagined for 
 He travelled the length and breadth of the Hero’s Journey, emerging at the other end as one of a kind.
 
 We would never have met if Chris had not lost his sight. You never know what life has in store for you.
-
-***go back to [[Books Beans Boots/Pages/start|start]]***
