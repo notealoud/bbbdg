@@ -36,3 +36,7 @@ I’ve never talked about this before. I’m ashamed. Of some of the ways I reme
 But I’ve realised that this story is part of who I am and until I own it, I can never really move forward. It’s like the elephant in the room. I can’t embrace who I am or why I am this way. I have to own it, warts and all. Until I do that, and share my story, I can’t do the work I’m here to do, and not sharing it is part of the reason I’ve faltered with Seed to Source.
 
 I know for sure that all these experiences have made me who I am today. I’m immensely grateful for my pragmatism and also my desire to approach life in my own way, not my Mum’s. It’s made me tough and able to deal with things alone. It made me hugely independent.
+
+---
+
+Return to [[Books Beans Boots/Book/table of contents|Table of Contents]]
