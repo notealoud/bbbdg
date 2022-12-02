@@ -113,3 +113,7 @@ In my workshops, we often sing a song that came to one of my students, a writer 
 > The way will show the way
 
 ©2015 Robert Moss. All rights reserved.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
