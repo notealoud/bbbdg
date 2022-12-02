@@ -74,3 +74,7 @@ I’ve always been a note taker. I love going down rabbits of information, and a
 There are many Obsidian users who have written books using this app and that appeals to me. I’ve always found it difficult to focus on one thing at a time. Obsidian provides the framework to allow me to work on multiple projects, to compartmentalise those ideas yet connect them to each other too. I can download into a variety of folders without, initially, needing to make sense of it all until I reach the writing and editing stages.
 
 I think my style of working is very much acquisition of information, first; then cultivate that information, second. Throw everything into the bucket, with suitable hashtags and links and, eventually, magic will happen and connections will be made in ways that you might never have imagined.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
