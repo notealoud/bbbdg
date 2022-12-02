@@ -24,3 +24,7 @@ I've mapped out many of the characters and their back stories on index cards. Ap
 I’ve looked at the family tree in a new light and, although I never knew the vast majority of people listed, they're being brought back to life again.
 
 Of course, the postscript to this is Obsidian. A few years ago when I started thinking about this idea, Obsidian didn't even exist. I tried using Scrivener but it didn't have that join the dots functionality that Obsidian does. It's definitely going to come into its own as I put together the story of Alice and all the members of our family that I never knew.
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
