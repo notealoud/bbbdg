@@ -14,3 +14,7 @@
 > Don’t lose the faith, wherever you are on the path. Keep going.
 > 
 > Jeff Brown
+
+---
+
+Return to [[Books Beans Boots/Pages/notes|Notes]] Index
