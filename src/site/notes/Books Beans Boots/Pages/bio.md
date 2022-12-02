@@ -21,5 +21,3 @@ I have an eclectic range of interests.
 ## writing
 
 I write about the intersection between tech and [living at a gentler pace](https://booksbeansboots.co.uk/nfwstart/). I'm exploring the premise that, if more of us lived a gentle life, reconnected to who we truly are, or our essence, as I call it, we could change the world for the better. 
-
-🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
