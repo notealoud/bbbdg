@@ -45,5 +45,3 @@ When you begin to embrace the gentle life, doors will start to open.
 The steps to living at a gentler pace are simple. Often we make the implementation difficult. Try just one thing a day for a week and see what happens.
 
 Take it one day at a time.
-
-🌀 ***return to [[Books Beans Boots/Pages/start|start]]***
