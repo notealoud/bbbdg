@@ -78,3 +78,7 @@ If, like me, you've often felt like a square peg in a round hole who didn't fit 
 I believe that positive change starts when we embrace those things that bring us joy and fulfilment and I’m convinced that living at a gentler pace of life helps not only us, our neighbours and the people we love, but also the planet.
 
 > We are all One
+
+---
+
+Back to the [[Books Beans Boots/Pages/start|start]]
