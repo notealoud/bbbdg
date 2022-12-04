@@ -25,8 +25,6 @@ style="width:80%!important;height:220px;border:1px #f790d3 solid !important"
 src="https://buttondown.email/booksbeansboots?as_embed=true"
 ></iframe>
 
----
-
 ## live life gently
 
 *Our lives follow seasons and cycles. Endings herald new beginnings. Pivotal moments lead us to our truth. We walk a path that is laid out for us. We just need the map.*
