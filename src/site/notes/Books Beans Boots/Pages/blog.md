@@ -5,7 +5,7 @@
 
 ![](https://source.unsplash.com/nN8c1cCGsZI/1900x1200)
 
-02/12/2022: [[Books Beans Boots/Blog/I miss blogging|I miss blogging]]
+[Read my Blog](https://booksbeansboots.bearblog.dev/)
 
 ---
 
