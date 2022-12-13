@@ -30,11 +30,11 @@ my favourite [[Books Beans Boots/Life/mugs|mugs]] and the memories they hold
 ## tech
 
 the [[Books Beans Boots/Tech/intersection|intersection]] of tech and living a gentle life
-why I'm [[Books Beans Boots/Obsidian/obsessed|obsessed]] with Obsidian 
-one [[Books Beans Boots/Obsidian/year|year]] of Obsidian
-my [[Books Beans Boots/Obsidian/early|early]] days with Obsidian 
-why Obsidian is keeping me [[Books Beans Boots/Obsidian/awake|awake]] at night
-why [[Books Beans Boots/Obsidian/pkm|pkm]] is a game changer 
+why I'm [[Books Beans Boots/Tech/obsessed|obsessed]] with Obsidian 
+one [[Books Beans Boots/Tech/year|year]] of Obsidian
+my [[Books Beans Boots/Tech/early|early]] days with Obsidian 
+why Obsidian is keeping me [[Books Beans Boots/Tech/awake|awake]] at night
+why [[Books Beans Boots/Tech/pkm|pkm]] is a game changer 
 
 ## writing
 
