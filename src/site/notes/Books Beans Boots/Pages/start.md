@@ -22,7 +22,7 @@ I'm most at home with tech, spending time with cows and being out in nature.
 <iframe
 scrolling="no"
 style="width:80%!important;height:220px;border:1px #f790d3 solid !important"
-src="https://buttondown.email/booksbeansboots?as_embed=true"
+src="https://buttondown.email/thetinyproject?as_embed=true"
 ></iframe>
 
 ## live life gently
