@@ -27,7 +27,7 @@ There's an active Discord community which extended my use of Obsidian and inspir
 
 ### pkm
 
-It was the Discord community that introduced me to the idea of personal knowledge management ([[Books Beans Boots/Obsidian/pkm|PKM]]). I began harvesting my Kindle highlights and bringing them into Obsidian. I created an Orangery, a directory on my Mac where I could save quotes, extracts from emails and web content using the MarkDownload Chrome extension. This directory is mirrored in my Obsidian Vault and its contents automagically appear in the app.
+It was the Discord community that introduced me to the idea of personal knowledge management ([[Books Beans Boots/Tech/pkm|pkm]]). I began harvesting my Kindle highlights and bringing them into Obsidian. I created an Orangery, a directory on my Mac where I could save quotes, extracts from emails and web content using the MarkDownload Chrome extension. This directory is mirrored in my Obsidian Vault and its contents automagically appear in the app.
 
 ### twitter
 
