@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwlife","permalink":"/nfwlife/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwlife","permalink":"/nfwlife/","dgPassFrontmatter":true}
 ---
 
 
@@ -67,4 +67,4 @@ We can only be where we are right now. That’s the best place to be.
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
