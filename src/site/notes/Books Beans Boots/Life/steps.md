@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"steps","permalink":"/steps/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"steps","permalink":"/steps/","dgPassFrontmatter":true}
 ---
 
 
@@ -48,4 +48,4 @@ Take it one day at a time.
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
