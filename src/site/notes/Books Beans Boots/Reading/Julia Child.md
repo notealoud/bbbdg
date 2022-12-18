@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"juliachild","permalink":"/juliachild/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"juliachild","permalink":"/juliachild/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,4 +21,4 @@ Somehow, we are there with her, in Paris, in France and even in England. This bo
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
