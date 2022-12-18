@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwtide","permalink":"/nfwtide/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwtide","permalink":"/nfwtide/","dgPassFrontmatter":true}
 ---
 
 
@@ -33,4 +33,4 @@ We embarked on a brand new adventure. We didn’t know what was around the corne
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
