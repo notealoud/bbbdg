@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dance","permalink":"/dance/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"dance","permalink":"/dance/","dgPassFrontmatter":true}
 ---
 
 
@@ -19,4 +19,4 @@ Thirty years later, I still have the image in my head of the guy. Like a moment 
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
