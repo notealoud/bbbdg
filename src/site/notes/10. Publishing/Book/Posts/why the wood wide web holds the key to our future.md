@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwwood","permalink":"/nfwwood/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwwood","permalink":"/nfwwood/","dgPassFrontmatter":true}
 ---
 
 
@@ -53,4 +53,4 @@ You might enjoy [Forest, an experiential Poem in Four Stanzas](https://emergence
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
