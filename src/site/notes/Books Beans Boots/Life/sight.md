@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"sight","permalink":"/sight/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"sight","permalink":"/sight/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,4 +21,4 @@ We would never have met if Chris had not lost his sight. You never know what lif
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
