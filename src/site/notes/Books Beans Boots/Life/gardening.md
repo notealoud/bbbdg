@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gardening","permalink":"/gardening/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"gardening","permalink":"/gardening/","dgPassFrontmatter":true}
 ---
 
 
@@ -25,4 +25,4 @@ This is the first garden I've created from scratch. It's completely of my making
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
