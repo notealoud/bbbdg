@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"kairomancy","permalink":"/kairomancy/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"kairomancy","permalink":"/kairomancy/","dgPassFrontmatter":true}
 ---
 
 
@@ -116,4 +116,4 @@ In my workshops, we often sing a song that came to one of my students, a writer 
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
