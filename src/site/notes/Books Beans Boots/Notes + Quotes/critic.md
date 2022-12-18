@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"critic","permalink":"/critic/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"critic","permalink":"/critic/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,4 +11,4 @@
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
