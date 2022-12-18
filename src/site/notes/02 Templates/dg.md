@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-permalink":"title","permalink":"/title/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"title","permalink":"/title/","dgPassFrontmatter":true}
 ---
 
 
 ## title
 
-***go back to [[Books Beans Boots/Pages/start|start]]***
+***go back to [[Books Beans Boots/Pages/start\|start]]***
