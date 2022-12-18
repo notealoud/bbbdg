@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwviolet","permalink":"/nfwviolet/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwviolet","permalink":"/nfwviolet/","dgPassFrontmatter":true}
 ---
 
 
@@ -25,4 +25,4 @@ By sharing that genius, we encourage others to do the same. And that’s where t
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
