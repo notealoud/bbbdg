@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"llgindex","permalink":"/llgindex/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"llgindex","permalink":"/llgindex/","dgPassFrontmatter":true}
 ---
 
 
@@ -25,23 +25,23 @@ To Chris, who saw me from the inside out from the very beginning.
 
 ## Contents
 
-[[10. Publishing/Book/0. Introduction|0. Introduction]]
+[[10. Publishing/Book/0. Introduction\|0. Introduction]]
 
 ### Cycles of Life
 
-[[10. Publishing/Book/1. The End|1. The End]]
-[[10. Publishing/Book/2. The Void|2. The Void]]
-[[10. Publishing/Book/3. The Beginning|3. The Beginning]]
-[[10. Publishing/Book/4. Essence|4. Essence]] 
-[[10. Publishing/Book/5. Oneness|5. Oneness]]
+[[10. Publishing/Book/1. The End\|1. The End]]
+[[10. Publishing/Book/2. The Void\|2. The Void]]
+[[10. Publishing/Book/3. The Beginning\|3. The Beginning]]
+[[10. Publishing/Book/4. Essence\|4. Essence]] 
+[[10. Publishing/Book/5. Oneness\|5. Oneness]]
 
 ---
 
-[[10. Publishing/Book/6. Epilogue|6. Epilogue]]
-[[10. Publishing/Book/7. Acknowledgments|7. Acknowledgments]]
-[[10. Publishing/Book/8. References|8. References]]
-[[10. Publishing/Book/9. Experiences|9. Experiences]]
-[[10. Publishing/Book/10. About the Author|10. About the Author]]
+[[10. Publishing/Book/6. Epilogue\|6. Epilogue]]
+[[10. Publishing/Book/7. Acknowledgments\|7. Acknowledgments]]
+[[10. Publishing/Book/8. References\|8. References]]
+[[10. Publishing/Book/9. Experiences\|9. Experiences]]
+[[10. Publishing/Book/10. About the Author\|10. About the Author]]
 
 ---
 
