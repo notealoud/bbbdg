@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"intersection","permalink":"/intersection/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"intersection","permalink":"/intersection/","dgPassFrontmatter":true}
 ---
 
 
 ## 🌱 the intersection of tech and living a gentle life
 
-I had no idea when I first came across [[Obsidian|Obsidian]] (a [[notetaking|notetaking]] app - think Evernote with wings) in April earlier this year just how far reaching its impact would be for me.
+I had no idea when I first came across [[Obsidian\|Obsidian]] (a [[notetaking\|notetaking]] app - think Evernote with wings) in April earlier this year just how far reaching its impact would be for me.
 
 I'd signed up to Evernote back in 2009 and stuck with it for years until I found, first, Bear and then Notion, followed by a brief dabble with OneNote, and countless other shiny things. I expected Obsidian to be something similar. 
 
@@ -27,7 +27,7 @@ There's an active Discord community which extended my use of Obsidian and inspir
 
 ### pkm
 
-It was the Discord community that introduced me to the idea of personal knowledge management ([[Books Beans Boots/Tech/pkm|pkm]]). I began harvesting my Kindle highlights and bringing them into Obsidian. I created an Orangery, a directory on my Mac where I could save quotes, extracts from emails and web content using the MarkDownload Chrome extension. This directory is mirrored in my Obsidian Vault and its contents automagically appear in the app.
+It was the Discord community that introduced me to the idea of personal knowledge management ([[Books Beans Boots/Tech/pkm\|pkm]]). I began harvesting my Kindle highlights and bringing them into Obsidian. I created an Orangery, a directory on my Mac where I could save quotes, extracts from emails and web content using the MarkDownload Chrome extension. This directory is mirrored in my Obsidian Vault and its contents automagically appear in the app.
 
 ### twitter
 
@@ -77,4 +77,4 @@ It could have been overwhelming but by streamlining my process, creating a workf
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
