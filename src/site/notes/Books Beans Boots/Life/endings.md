@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"endings","permalink":"/endings/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"endings","permalink":"/endings/","dgPassFrontmatter":true}
 ---
 
 
@@ -43,4 +43,4 @@ Understanding this roadmap has helped me navigate loss more easily. Simply becau
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
