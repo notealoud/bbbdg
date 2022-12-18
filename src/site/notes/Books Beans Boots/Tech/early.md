@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"early","permalink":"/early/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"early","permalink":"/early/","dgPassFrontmatter":true}
 ---
 
 
 ## 🌿 my early days with obsidian
 
-[[Obsidian|Obsidian]] is a recent discovery. I've used apps with some similarities in the past - ones that let you load up the file in a text reader, link up ideas (I used an app called [The Brain](https://www.thebrain.com/) several years ago) or take text notes. But Obsidian does something much better.
+[[Obsidian\|Obsidian]] is a recent discovery. I've used apps with some similarities in the past - ones that let you load up the file in a text reader, link up ideas (I used an app called [The Brain](https://www.thebrain.com/) several years ago) or take text notes. But Obsidian does something much better.
 
 It takes your notes and lets you make connections between them. You can be strategic with your folders or you can simply go with the flow and allow your notes to develop organically.
 
@@ -29,4 +29,4 @@ Although I loved the earlier template I was using, I've settled on a white backg
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
