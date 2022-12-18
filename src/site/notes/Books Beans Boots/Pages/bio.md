@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","dgPassFrontmatter":true}
 ---
 
 
@@ -81,4 +81,4 @@ I believe that positive change starts when we embrace those things that bring us
 
 ---
 
-Back to the [[Books Beans Boots/Pages/start|start]]
+Back to the [[Books Beans Boots/Pages/start\|start]]
