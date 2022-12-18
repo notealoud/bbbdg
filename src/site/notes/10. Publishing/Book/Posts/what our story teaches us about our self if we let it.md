@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwstory","permalink":"/nfwstory/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwstory","permalink":"/nfwstory/","dgPassFrontmatter":true}
 ---
 
 
@@ -39,4 +39,4 @@ I know for sure that all these experiences have made me who I am today. I’m im
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
