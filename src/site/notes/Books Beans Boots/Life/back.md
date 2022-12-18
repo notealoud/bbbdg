@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"back","permalink":"/back/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"back","permalink":"/back/","dgPassFrontmatter":true}
 ---
 
 
@@ -23,4 +23,4 @@ Mostly though, Chris is happy with who he is. A blind man.
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
