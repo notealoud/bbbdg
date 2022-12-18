@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"getting","permalink":"/getting/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"getting","permalink":"/getting/","dgPassFrontmatter":true}
 ---
 
 
@@ -29,4 +29,4 @@ A long pause.
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
