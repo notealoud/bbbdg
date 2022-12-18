@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwfire","permalink":"/nfwfire/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwfire","permalink":"/nfwfire/","dgPassFrontmatter":true}
 ---
 
 
@@ -149,4 +149,4 @@ I wish for you to have the courage to step back when everyone else rushes forwar
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
