@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwpurpose","permalink":"/nfwpurpose/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwpurpose","permalink":"/nfwpurpose/","dgPassFrontmatter":true}
 ---
 
 
@@ -101,4 +101,4 @@ We journey past various milestones in our lives, each one giving us the opportun
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
