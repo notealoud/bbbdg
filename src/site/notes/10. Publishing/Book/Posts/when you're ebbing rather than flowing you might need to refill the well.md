@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwebb","permalink":"/nfwebb/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwebb","permalink":"/nfwebb/","dgPassFrontmatter":true}
 ---
 
 
@@ -47,4 +47,4 @@ As is the case in nature, nothing will bloom unless you first sow the seeds. And
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
