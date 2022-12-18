@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"year","permalink":"/year/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"year","permalink":"/year/","dgPassFrontmatter":true}
 ---
 
 
@@ -87,4 +87,4 @@ Needless to say, Obsidian remains a key tool in my arsenal. It simply gets bette
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
