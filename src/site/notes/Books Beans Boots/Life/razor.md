@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"razor","permalink":"/razor/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"razor","permalink":"/razor/","dgPassFrontmatter":true}
 ---
 
 
 ## 🌿 how the razor's edge changed bill murray's life
 
-[[Books Beans Boots/Life/bill|Bill]] Murray didn't offer me chocolate when I chatted with him - he offered me a piece of his Palmier.
+[[Books Beans Boots/Life/bill\|Bill]] Murray didn't offer me chocolate when I chatted with him - he offered me a piece of his Palmier.
 
 > But just as _Citizen Kane_ seemed to foreshadow Orson Welles’ future, _The Razor’s Edge_ seemed to predict Murray’s path, at least for the next few months. Not long after the movie’s release, he withdrew from public life, moved his family to Paris, [read philosophy at the Sorbonne](http://www.dazeddigital.com/artsandculture/article/21537/1/the-film-that-made-bill-murray-quit-acting), and studied the works of mystics like George Gurdjieff.
 >
@@ -15,4 +15,4 @@
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
