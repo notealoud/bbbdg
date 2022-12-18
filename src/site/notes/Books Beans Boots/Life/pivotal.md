@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"pivotal","permalink":"/pivotal/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"pivotal","permalink":"/pivotal/","dgPassFrontmatter":true}
 ---
 
 
@@ -11,4 +11,4 @@ Chaos is always a catalyst. It shifts things and us. Designed to give us a kick 
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
