@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"log","permalink":"/log/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"log","permalink":"/log/","dgPassFrontmatter":true}
 ---
 
 
@@ -29,4 +29,4 @@ Here’s a description of someone we met. I may use him as a character. _G gave 
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
