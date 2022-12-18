@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"meeting","permalink":"/meeting/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"meeting","permalink":"/meeting/","dgPassFrontmatter":true}
 ---
 
 
 ## 🌿 meeting bill murray in paris
 
-I lived in Paris in 1984/1985. Around Easter 1985, I heard that [[Books Beans Boots/Life/bill|Bill]] Murray was also living there. He'd just finished Ghostbusters (known locally as SOS Fantomes) and had been in Paris to film The Razor's Edge. I saw both of these films first in Paris.
+I lived in Paris in 1984/1985. Around Easter 1985, I heard that [[Books Beans Boots/Life/bill\|Bill]] Murray was also living there. He'd just finished Ghostbusters (known locally as SOS Fantomes) and had been in Paris to film The Razor's Edge. I saw both of these films first in Paris.
 
 I was 20/21 and very starstruck. I followed up every lead, to no avail. Then, one day, I was just waiting on the pavement outside the building where my next class was scheduled to take place, and he walked casually down the steps towards me. I was primed and ready and raced after him, and asked if he would sign my autograph book for me. He wrote Merry Christmas! 
 
@@ -35,4 +35,4 @@ However, can’t hang around here all day when there’s the library waiting or 
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
