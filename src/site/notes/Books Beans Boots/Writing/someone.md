@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"someone","permalink":"/someone/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"someone","permalink":"/someone/","dgPassFrontmatter":true}
 ---
 
 
@@ -77,4 +77,4 @@ Perhaps this was my break away. Moving somewhere very different, and building a 
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
