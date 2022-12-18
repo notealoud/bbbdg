@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"blog","permalink":"/blog/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"blog","permalink":"/blog/","dgPassFrontmatter":true}
 ---
 
 
@@ -9,4 +9,4 @@
 
 ---
 
-Back to the [[Books Beans Boots/Pages/start|start]]
+Back to the [[Books Beans Boots/Pages/start\|start]]
