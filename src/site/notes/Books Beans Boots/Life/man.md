@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"man","permalink":"/man/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"man","permalink":"/man/","dgPassFrontmatter":true}
 ---
 
 
@@ -45,4 +45,4 @@ The best approach is, be nice, be kind. Treat everyone the way you wish to be tr
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
