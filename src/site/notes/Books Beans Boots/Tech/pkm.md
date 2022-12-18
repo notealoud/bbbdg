@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"pkm","permalink":"/pkm/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"pkm","permalink":"/pkm/","dgPassFrontmatter":true}
 ---
 
 
@@ -23,4 +23,4 @@ It's introduced me to a whole new world of apps, to people I might otherwise nev
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
