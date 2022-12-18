@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"beginning","permalink":"/beginning/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"beginning","permalink":"/beginning/","dgPassFrontmatter":true}
 ---
 
 
@@ -31,4 +31,4 @@ Fast forward six years. Including a fairy tale wedding. A dream life in the coun
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
