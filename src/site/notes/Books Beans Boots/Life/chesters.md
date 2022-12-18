@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"dg-permalink":"chesters","permalink":"/chesters/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"chesters","permalink":"/chesters/","dgPassFrontmatter":true}
 ---
 
 
 ## 🌿 chesters
 
-I was just looking at this note: [[Books Beans Boots/Life/mugs|mugs]]. I clicked on the link for Chesters and found it was broken so I Googled to fix the link.
+I was just looking at this note: [[Books Beans Boots/Life/mugs\|mugs]]. I clicked on the link for Chesters and found it was broken so I Googled to fix the link.
 
 The website has nothing on it. Their Instagram account hasn't been updated in weeks and the reviews are sad.
 
@@ -25,4 +25,4 @@ Chesters was an iconic place in the Lake District. I have so many memories there
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
