@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"start","permalink":"/start/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-home":true,"dg-publish":true,"dg-permalink":"start","permalink":"/start/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
@@ -13,9 +13,9 @@ I'm most at home with tech, spending time with cows and being out in nature.
 
 ## get to know more about me
 
-- Read my [[Books Beans Boots/Pages/bio|bio]]
-- Read my [[Books Beans Boots/Pages/notes|notes]]
-- Read my [[Books Beans Boots/Pages/blog|blog]]
+- Read my [[Books Beans Boots/Pages/bio\|bio]]
+- Read my [[Books Beans Boots/Pages/notes\|notes]]
+- Read my [[Books Beans Boots/Pages/blog\|blog]]
 
 ## subscribe to my newsletter
 
