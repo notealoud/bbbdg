@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"alice","permalink":"/alice/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"alice","permalink":"/alice/","dgPassFrontmatter":true}
 ---
 
 
@@ -123,4 +123,4 @@ Date: 21 November 1973 15:09
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
