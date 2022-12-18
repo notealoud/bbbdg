@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ellen","permalink":"/ellen/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"ellen","permalink":"/ellen/","dgPassFrontmatter":true}
 ---
 
 
@@ -68,4 +68,4 @@ Date: 12 June 1982 00:27
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
