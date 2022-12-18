@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dog","permalink":"/dog/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"dog","permalink":"/dog/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,4 +21,4 @@ There's a mutual, deep love between them. It's a special thing.
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
