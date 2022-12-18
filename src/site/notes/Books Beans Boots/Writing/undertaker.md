@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"undertaker","permalink":"/undertaker/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"undertaker","permalink":"/undertaker/","dgPassFrontmatter":true}
 ---
 
 
@@ -239,4 +239,4 @@ The phone rang. It was Mick.
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
