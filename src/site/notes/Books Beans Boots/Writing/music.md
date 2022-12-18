@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","dgPassFrontmatter":true}
 ---
 
 
@@ -29,4 +29,4 @@ The music won’t be denied. It will keep singing to you until you either take n
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
