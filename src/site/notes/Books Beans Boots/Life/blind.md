@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"love","permalink":"/love/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"love","permalink":"/love/","dgPassFrontmatter":true}
 ---
 
 
@@ -71,4 +71,4 @@ We've not yet been married two years but it feels much longer. In a good way! We
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
