@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"retelling","permalink":"/retelling/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"retelling","permalink":"/retelling/","dgPassFrontmatter":true}
 ---
 
 
@@ -27,4 +27,4 @@ Of course, the postscript to this is Obsidian. A few years ago when I started th
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
