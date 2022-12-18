@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rat","permalink":"/rat/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"rat","permalink":"/rat/","dgPassFrontmatter":true}
 ---
 
 
@@ -21,4 +21,4 @@ I’m on a quest to find that something else. A different way of being and livin
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
