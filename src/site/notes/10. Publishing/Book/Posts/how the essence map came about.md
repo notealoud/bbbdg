@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwhow","permalink":"/nfwhow/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"nfwhow","permalink":"/nfwhow/","dgPassFrontmatter":true}
 ---
 
 
@@ -61,4 +61,4 @@ It can often feel as though we don't have choices, and there's a longer conversa
 
 ---
 
-Return to [[10. Publishing/Book/table of contents|table of contents]]
+Return to [[10. Publishing/Book/table of contents\|table of contents]]
