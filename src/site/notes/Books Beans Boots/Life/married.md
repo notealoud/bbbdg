@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"married","permalink":"/married/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"married","permalink":"/married/","dgPassFrontmatter":true}
 ---
 
 
@@ -35,4 +35,4 @@ We are Team Fisher. Both there for each other.
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
