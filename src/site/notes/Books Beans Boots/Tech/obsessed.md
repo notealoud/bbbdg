@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsessed","permalink":"/obsessed/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"obsessed","permalink":"/obsessed/","dgPassFrontmatter":true}
 ---
 
 
@@ -35,7 +35,7 @@ Notes can be private or, if you subscribe to the Publish function, public.
 
 I use a minimal hierarchy but prefix notes with N (note), Q (quote), R (reference) etc. There’s also tagging i.e. hashtags that can be added to each note.
 
-What I really love are backlinks. I use these to great effect in my Daily Notes, especially to remind me to connect with a friend or a client. By simply including [[Friend Name|Friend Name]], this links to the note of the same name. So, I might say: Wrote letter to [[Friend Name|Friend Name]] in my Daily Note. This will then appear as a backlink in my friend’s note. It’s a simple but very useful tool for a minimalist CRM.
+What I really love are backlinks. I use these to great effect in my Daily Notes, especially to remind me to connect with a friend or a client. By simply including [[Friend Name\|Friend Name]], this links to the note of the same name. So, I might say: Wrote letter to [[Friend Name\|Friend Name]] in my Daily Note. This will then appear as a backlink in my friend’s note. It’s a simple but very useful tool for a minimalist CRM.
 
 The more notes you create, the more effective your system. A graph charts all the notes and how they link to each other so you have a visual representation of your Second Brain.
 
@@ -77,4 +77,4 @@ I think my style of working is very much acquisition of information, first; then
 
 ---
 
-Return to [[Books Beans Boots/Pages/notes|Notes]] Index
+Return to [[Books Beans Boots/Pages/notes\|Notes]] Index
