@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"married","permalink":"/married/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"married","permalink":"/married/"}
 ---
 
 
