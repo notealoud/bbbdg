@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwstory","permalink":"/nfwstory/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"nfwstory","permalink":"/nfwstory/"}
 ---
 
 
