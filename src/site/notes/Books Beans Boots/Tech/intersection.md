@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"intersection","permalink":"/intersection/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"intersection","permalink":"/intersection/"}
 ---
 
 
