@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rat","permalink":"/rat/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"rat","permalink":"/rat/"}
 ---
 
 
