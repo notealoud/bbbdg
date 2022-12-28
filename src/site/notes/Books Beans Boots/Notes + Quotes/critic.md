@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"critic","permalink":"/critic/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"critic","permalink":"/critic/"}
 ---
 
 
