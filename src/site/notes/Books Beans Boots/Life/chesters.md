@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"chesters","permalink":"/chesters/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"chesters","permalink":"/chesters/"}
 ---
 
 
