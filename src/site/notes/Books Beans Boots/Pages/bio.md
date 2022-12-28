@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/"}
 ---
 
 
@@ -15,7 +15,7 @@ I believe that living and working at a gentler pace is the key. There is a globa
 
 I believe in oneness. That we all originate from the same Source. And that we are on a journey to understand our connection to one another.
 
-I'm an INFP. I'm unconventional, quirky, an introvert and live outside the circle. That might make me eccentric!
+I'm an INFP. I'm unconventional, quirky, an introvert and live outside the circle. That might make me eccentric.
 
 I have an eclectic range of interests. 
 
