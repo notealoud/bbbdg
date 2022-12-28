@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwtide","permalink":"/nfwtide/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"nfwtide","permalink":"/nfwtide/"}
 ---
 
 
