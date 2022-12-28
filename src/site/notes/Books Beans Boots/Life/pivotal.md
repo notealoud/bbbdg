@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"pivotal","permalink":"/pivotal/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"pivotal","permalink":"/pivotal/"}
 ---
 
 
