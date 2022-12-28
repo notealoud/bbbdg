@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwpurpose","permalink":"/nfwpurpose/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"nfwpurpose","permalink":"/nfwpurpose/"}
 ---
 
 
