@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"getting","permalink":"/getting/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"getting","permalink":"/getting/"}
 ---
 
 
