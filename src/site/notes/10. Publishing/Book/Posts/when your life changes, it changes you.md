@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwlife","permalink":"/nfwlife/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"nfwlife","permalink":"/nfwlife/"}
 ---
 
 
