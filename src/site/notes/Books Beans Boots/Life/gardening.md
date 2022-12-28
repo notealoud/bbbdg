@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gardening","permalink":"/gardening/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"gardening","permalink":"/gardening/"}
 ---
 
 
