@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwwood","permalink":"/nfwwood/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"nfwwood","permalink":"/nfwwood/"}
 ---
 
 
