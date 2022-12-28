@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dance","permalink":"/dance/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"dance","permalink":"/dance/"}
 ---
 
 
