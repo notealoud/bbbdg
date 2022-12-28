@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"dg-permalink":"start","permalink":"/start/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"start","permalink":"/start/","tags":"gardenEntry"}
 ---
 
 
@@ -16,6 +16,16 @@ I'm most at home with tech, spending time with cows and being out in nature.
 - Read my [[Books Beans Boots/Pages/bio\|bio]]
 - Read my [[Books Beans Boots/Pages/notes\|notes]]
 - Read my [[Books Beans Boots/Pages/blog\|blog]]
+
+## where to find me
+
+- [sign up to the tiny project](https://booksbeansboots.substack.com/s/the-tiny-project)
+- [read my blog](https://booksbeansboots.bearblog.dev/)
+- [read my tiny notes](https://tiny.montaigne.io/)
+- [what I'm doing now](https://nicolafisherwriter.co.uk/now)
+- [follow me on Medium](https://booksbeansboots.medium.com/)
+- [listen to the podcast](https://anchor.fm/thetinyproject)
+- [watch the tiny project videos](https://www.youtube.com/channel/UCEvkRpLVmA_-nP3AxGdJn7g)
 
 ## subscribe to my newsletter
 
