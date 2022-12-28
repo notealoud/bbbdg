@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gilda","permalink":"/gilda/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"gilda","permalink":"/gilda/"}
 ---
 
 
