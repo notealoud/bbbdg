@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"nfwhow","permalink":"/nfwhow/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"nfwhow","permalink":"/nfwhow/"}
 ---
 
 
