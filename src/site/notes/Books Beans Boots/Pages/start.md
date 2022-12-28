@@ -15,7 +15,6 @@ I'm most at home with tech, spending time with cows and being out in nature.
 
 - Read my [[Books Beans Boots/Pages/bio\|bio]]
 - Read my [[Books Beans Boots/Pages/notes\|notes]]
-- Read my [[Books Beans Boots/Pages/blog\|blog]]
 
 ## where to find me
 
