@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"man","permalink":"/man/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"man","permalink":"/man/"}
 ---
 
 
