@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"speak","permalink":"/speak/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"speak","permalink":"/speak/"}
 ---
 
 
