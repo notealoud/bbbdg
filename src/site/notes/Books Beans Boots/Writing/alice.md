@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"alice","permalink":"/alice/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"alice","permalink":"/alice/"}
 ---
 
 
