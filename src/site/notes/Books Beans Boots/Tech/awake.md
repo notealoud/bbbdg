@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"awake","permalink":"/awake/","dgPassFrontmatter":true}
+{"dg-publish":true,"dg-permalink":"awake","permalink":"/awake/"}
 ---
 
 
