@@ -25,6 +25,7 @@ I'm most at home with tech, spending time with cows and being out in nature.
 - [follow me on Medium](https://booksbeansboots.medium.com/)
 - [listen to the podcast](https://anchor.fm/thetinyproject)
 - [watch the tiny project videos](https://www.youtube.com/channel/UCEvkRpLVmA_-nP3AxGdJn7g)
+- [the tiny project on Twos](https://www.TwosApp.com/6396db5dcb66d077c3630e48)
 
 ## subscribe to my newsletter
 
