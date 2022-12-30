@@ -5,8 +5,12 @@
 
 ![](https://source.unsplash.com/FVoARDlzK8U/1900x1200)
 
+## tiny
+
+
 ## life
 
+what will it take to [[Books Beans Boots/Life/care\|care]] for those in need?
 if you lost your sight would you want it [[Books Beans Boots/Life/back\|back]]?
 how a new [[Books Beans Boots/Life/beginning\|beginning]] completely changed my life
 how I met [[Books Beans Boots/Life/bill\|Bill]] Murray in Paris
@@ -26,6 +30,7 @@ if you lost your sight, would you want it [[Books Beans Boots/Life/back\|back]]?
 don't put the blind [[Books Beans Boots/Life/man\|man]] in the corner
 [[Books Beans Boots/Life/gardening\|gardening]]
 my favourite [[Books Beans Boots/Life/mugs\|mugs]] and the memories they hold
+
 
 ## tech
 
