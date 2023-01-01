@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 why Obsidian is keeping me awake at night
+## why Obsidian is keeping me awake at night
 
 I make no apologies for being almost evangelical about [[Obsidian\|Obsidian]]. But it has given me a lot of sleepless nights!
 
