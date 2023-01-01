@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 don't fear endings, embrace them
+## don't fear endings, embrace them
 
 In my twenties, I dreaded endings and change. I preferred the status quo.
 
