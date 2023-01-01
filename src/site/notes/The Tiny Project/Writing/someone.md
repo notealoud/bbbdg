@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 don't try to be like someone else
+## don't try to be like someone else
 
 > “Be yourself; everyone else is already taken.” Oscar Wilde
 
