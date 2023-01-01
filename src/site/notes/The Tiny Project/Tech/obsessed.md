@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 why I'm obsessed with obsidian
+## why I'm obsessed with obsidian
 
 A couple of months ago I happened upon an app called [Obsidian](https://obsidian.md/). A note taking app which describes itself as a Second Brain, I was intrigued. I’d been a long term user of Evernote, I’d tried Bear and One Note, I have analogue notes in notebooks but all of these eventually ended up becoming an archive for jottings and ideas, clippings from web pages or books, without real function.
 
