@@ -3,7 +3,7 @@
 ---
 
 
-## 🌱 why you need to keep a daily log
+## why you need to keep a daily log
 
 Keeping a daily log is a relatively new thing for me. It started after I came across [Michael Dean](https://www.michaeldean.site/)’s website.
 
