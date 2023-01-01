@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 the bond between a blind man and his guide dog
+## the bond between a blind man and his guide dog
 
 On 6th October 2017, an 18 month old German Shepherd Guide Dog came into our lives.
 
