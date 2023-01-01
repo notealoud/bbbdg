@@ -21,20 +21,12 @@ style="width:80%!important;height:220px;border:1px #f790d3 solid !important"
 src="https://buttondown.email/thetinyproject?as_embed=true"
 ></iframe>
 
-## live life gently
+## the tiny project
 
-*Our lives follow seasons and cycles. Endings herald new beginnings. Pivotal moments lead us to our truth. We walk a path that is laid out for us. We just need the map.*
+The Tiny Project 2023 is the antidote to big goals and overwhelm, but a way to get things done. In late December 2021, I’m creating my tiny goals. Throughout the year I’ll be writing tiny blogs and articles, making tiny videos (shorts), and recording tiny podcasts. All on my phone. If I can’t create something all the way through to publication, then it’s out of scope. The project is open to anyone who would like to create their own tiny project.
 
-We can change the world when we live life gently.
+I believe that we can change the world when we live life gently. The Tiny Project brings together all that I've learned through living at a gentler pace, writing about the Essence Map, and Oneness. 
 
-### there is a path that we walk on the journey home.
+The Tiny Project culminates, at the end of 2023, in the creation of The Tiny Almanac. A guide through the year to give our lives more meaning and fulfilment.
 
-The Essence Map is our guide through the ebb and flow of life. It leads us to our truth, to our very essence. If we have a sense that there is something more, something as yet untapped, the Essence Map will help us uncover who we truly are.
-
-Read [my book](https://booksbeansboots.co.uk/llgindex)
-
-
-
-
-
-
+Read The [Almanac]
