@@ -3,7 +3,7 @@
 ---
 
 
-## 🌳 about me
+## about me
 
 I'm a writer, podcaster and photographer. I live in a small village in the Peak Park area of Derbyshire with my husband, [Chris](https://theblindwoodturner.co.uk), and his Guide Dog, Bamber.
 
