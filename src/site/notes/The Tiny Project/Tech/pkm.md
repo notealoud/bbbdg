@@ -3,7 +3,7 @@
 ---
 
 
-## 🌱 why personal knowledge management is a game changer
+## why personal knowledge management is a game changer
 
 Ever since I first came across Obsidian earlier this year, my life has changed.
 
