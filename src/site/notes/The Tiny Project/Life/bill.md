@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 how I met Bill Murray in Paris
+## how I met Bill Murray in Paris
 
 In 1984 I lived in Paris, studying at the Sorbonne as part of my French degree.
 
