@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 chesters
+## chesters
 
 I was just looking at this note: [[The Tiny Project/Life/mugs\|mugs]]. I clicked on the link for Chesters and found it was broken so I Googled to fix the link.
 
