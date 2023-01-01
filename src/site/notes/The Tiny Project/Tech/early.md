@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 my early days with obsidian
+## my early days with obsidian
 
 [[Obsidian\|Obsidian]] is a recent discovery. I've used apps with some similarities in the past - ones that let you load up the file in a text reader, link up ideas (I used an app called [The Brain](https://www.thebrain.com/) several years ago) or take text notes. But Obsidian does something much better.
 
