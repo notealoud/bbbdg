@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 one year of obsidian
+## one year of obsidian
 
 I blame Ali Abdaal. A random search about productivity started it all. Ali’s YouTube video about Roam Research made me curious about this _new to me_ thing called PKM. 
 
