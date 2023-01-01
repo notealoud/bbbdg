@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 3 easy steps to start living at a gentler pace
+## 3 easy steps to start living at a gentler pace
 
 I prioritised work for many years. But I missed out on other aspects of life. 
 
