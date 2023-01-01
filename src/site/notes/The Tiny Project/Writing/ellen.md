@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 ellen
+## ellen
 
 10 June 1982 - Thursday
 
