@@ -3,7 +3,7 @@
 ---
 
 
-## 🌱 the intersection of tech and living a gentle life
+## the intersection of tech and living a gentle life
 
 I had no idea when I first came across [[Obsidian\|Obsidian]] (a [[notetaking\|notetaking]] app - think Evernote with wings) in April earlier this year just how far reaching its impact would be for me.
 
