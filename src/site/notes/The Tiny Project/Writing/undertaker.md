@@ -3,7 +3,7 @@
 ---
 
 
-## 🌳 the undertaker
+## the undertaker
 
 The fireman squeezed his body into the firebox. It was a tight fit but he was skinny and he slid himself through the narrow opening. He needed to get on with his preparations.
 
