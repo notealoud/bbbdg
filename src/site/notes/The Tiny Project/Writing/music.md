@@ -3,7 +3,7 @@
 ---
 
 
-## 🌱 don't die with your music still in you
+## don't die with your music still in you
 
 _When first my Mum died, then my Dad, I glimpsed my own mortality._
 
