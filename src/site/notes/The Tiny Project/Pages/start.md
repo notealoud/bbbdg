@@ -29,4 +29,4 @@ I believe that we can change the world when we live life gently. The Tiny Projec
 
 The Tiny Project culminates, at the end of 2023, in the creation of The Tiny Almanac. A guide through the year to give our lives more meaning and fulfilment.
 
-Read The [Almanac]
+Read The [[Almanac\|Almanac]].
