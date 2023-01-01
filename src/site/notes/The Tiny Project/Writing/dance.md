@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 if someone asks you to dance, say yes
+## if someone asks you to dance, say yes
 
 Back in my 20s I spent some time working in Paris for the French electricity company, EdF, that we represented in the UK.
 
