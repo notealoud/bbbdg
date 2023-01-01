@@ -3,11 +3,6 @@
 ---
 
 
-![](https://source.unsplash.com/FVoARDlzK8U/1900x1200)
-
-## tiny
-
-
 ## life
 
 what will it take to [[The Tiny Project/Life/care\|care]] for those in need?
