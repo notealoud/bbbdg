@@ -3,9 +3,9 @@
 ---
 
 
-## Hi, I'm Nicola and this is my Digital Garden!
+## welcome to my digital garden
 
-I'm most at home with tech, spending time with cows and being out in nature. 
+I'm Nicola, and I'm most at home with tech, spending time with cows and being out in nature. 
 
 ## get to know more about me
 
