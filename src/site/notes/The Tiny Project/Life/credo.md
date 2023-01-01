@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 10 things I believe about life
+## 10 things I believe about life
 
 1. Nothing happens by chance. Our journey through life has definition, and we each have a role to play in our own lives and the lives of others.
 
