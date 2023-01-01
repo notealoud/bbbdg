@@ -3,7 +3,7 @@
 ---
 
 
-## 🌱 this is a pivotal moment
+## this is a pivotal moment
 
 If you read the papers or watch the news, doom scroll on social media, it's easy to believe that the world is going to hell in a hand cart. And, yes it is and no it isn't!
 
