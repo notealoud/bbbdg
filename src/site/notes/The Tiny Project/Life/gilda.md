@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 Bill Murray and Gilda Radner
+## Bill Murray and Gilda Radner
 
 > Sometimes we just need to act *as if*. Stop worrying about what we're not or what we've not got. Envision it, live it, become it.
 
