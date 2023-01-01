@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 my favourite mugs and the memories they hold
+## my favourite mugs and the memories they hold
 
 I recently posted photos on an Instagram Story of a couple of mugs I bought for myself. I’d spotted the first one, white and printed with two illustrations of cameras, in a local garden centre, and I knew I had to buy it. Despite already having a cupboard full of mugs at home, there was still room for one more!
 
