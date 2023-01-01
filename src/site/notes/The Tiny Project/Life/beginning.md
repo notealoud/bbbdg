@@ -3,7 +3,7 @@
 ---
 
 
-## 🌿 how a new beginning completely changed my life
+## how a new beginning completely changed my life
 
 The new beginning most often comes when you least expect it.
 
