@@ -3,6 +3,21 @@
 ---
 
 
+*This is a work in progress. Content may not be completed in chronological order or may be in draft.*
+
+[[The Tiny Project/Almanac/january\|January]]
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+
 ## Copyright
 
 The Tiny Almanac
