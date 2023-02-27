@@ -15,11 +15,7 @@ I'm Nicola, and I'm most at home with tech, spending time with cows and being ou
 
 ## subscribe to my newsletter
 
-<iframe
-scrolling="no"
-style="width:80%!important;height:220px;border:1px #f790d3 solid !important"
-src="https://buttondown.email/thetinyproject?as_embed=true"
-></iframe>
+<iframe src="https://www.thetinyproject.club/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ## the tiny project
 
