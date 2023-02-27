@@ -19,10 +19,6 @@ I'm Nicola, and I'm most at home with tech, spending time with cows and being ou
 
 ## the tiny project
 
-The Tiny Project 2023 is the antidote to big goals and overwhelm, but a way to get things done. In late December 2021, I’m creating my tiny goals. Throughout the year I’ll be writing tiny blogs and articles, making tiny videos (shorts), and recording tiny podcasts. All on my phone. If I can’t create something all the way through to publication, then it’s out of scope. The project is open to anyone who would like to create their own tiny project.
+The Tiny Project 2023 is the antidote to big goals and overwhelm, but a way to get things done. Throughout the year I’ll be writing tiny blogs and articles, making tiny videos, and recording tiny podcasts. The project is open to anyone who would like to join me and create their own tiny project.
 
 I believe that we can change the world when we live life gently. The Tiny Project brings together all that I've learned through living at a gentler pace, writing about the Essence Map, and Oneness. 
-
-The Tiny Project culminates, at the end of 2023, in the creation of The Tiny Almanac. A guide through the year to give our lives more meaning and fulfilment.
-
-Read The [[The Tiny Project/Almanac/almanac\|Almanac]]
