@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dog","permalink":"/dog/"}
+{"dg-publish":true,"dg-permalink":"dog","permalink":"/dog/","created":"","updated":""}
 ---
 
 
