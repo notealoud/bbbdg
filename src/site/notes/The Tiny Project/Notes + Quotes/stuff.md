@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"stuff","permalink":"/stuff/"}
+{"dg-publish":true,"dg-permalink":"stuff","permalink":"/stuff/","created":"","updated":""}
 ---
 
 
