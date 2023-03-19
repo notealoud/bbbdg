@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"undertaker","permalink":"/undertaker/"}
+{"dg-publish":true,"dg-permalink":"undertaker","permalink":"/undertaker/","created":"","updated":""}
 ---
 
 
