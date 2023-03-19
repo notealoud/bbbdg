@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ellen","permalink":"/ellen/"}
+{"dg-publish":true,"dg-permalink":"ellen","permalink":"/ellen/","created":"","updated":""}
 ---
 
 
