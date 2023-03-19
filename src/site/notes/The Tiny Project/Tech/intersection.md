@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"intersection","permalink":"/intersection/"}
+{"dg-publish":true,"dg-permalink":"intersection","permalink":"/intersection/","created":"","updated":""}
 ---
 
 
