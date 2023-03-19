@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"bill","permalink":"/bill/"}
+{"dg-publish":true,"dg-permalink":"bill","permalink":"/bill/","created":"","updated":""}
 ---
 
 
