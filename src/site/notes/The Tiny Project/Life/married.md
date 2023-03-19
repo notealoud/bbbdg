@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"married","permalink":"/married/"}
+{"dg-publish":true,"dg-permalink":"married","permalink":"/married/","created":"","updated":""}
 ---
 
 
