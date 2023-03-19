@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gardening","permalink":"/gardening/"}
+{"dg-publish":true,"dg-permalink":"gardening","permalink":"/gardening/","created":"","updated":""}
 ---
 
 
