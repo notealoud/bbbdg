@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mugs","permalink":"/mugs/"}
+{"dg-publish":true,"dg-permalink":"mugs","permalink":"/mugs/","created":"","updated":""}
 ---
 
 
