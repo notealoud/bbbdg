@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"juliachild","permalink":"/juliachild/"}
+{"dg-publish":true,"dg-permalink":"juliachild","permalink":"/juliachild/","created":"","updated":""}
 ---
 
 
