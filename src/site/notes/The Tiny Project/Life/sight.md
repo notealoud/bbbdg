@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"sight","permalink":"/sight/"}
+{"dg-publish":true,"dg-permalink":"sight","permalink":"/sight/","created":"","updated":""}
 ---
 
 
