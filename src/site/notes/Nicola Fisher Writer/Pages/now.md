@@ -5,7 +5,7 @@
 
 ![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
 
-## 🌳 now
+## now
 
 What I'm doing now ... 
 
