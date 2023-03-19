@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"rat","permalink":"/rat/"}
+{"dg-publish":true,"dg-permalink":"rat","permalink":"/rat/","created":"","updated":""}
 ---
 
 
