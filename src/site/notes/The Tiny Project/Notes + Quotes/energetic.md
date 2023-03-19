@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"energetic","permalink":"/energetic/"}
+{"dg-publish":true,"dg-permalink":"energetic","permalink":"/energetic/","created":"","updated":""}
 ---
 
 
