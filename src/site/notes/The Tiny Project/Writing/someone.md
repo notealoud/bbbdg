@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"someone","permalink":"/someone/"}
+{"dg-publish":true,"dg-permalink":"someone","permalink":"/someone/","created":"","updated":""}
 ---
 
 
