@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dance","permalink":"/dance/"}
+{"dg-publish":true,"dg-permalink":"dance","permalink":"/dance/","created":"","updated":""}
 ---
 
 
