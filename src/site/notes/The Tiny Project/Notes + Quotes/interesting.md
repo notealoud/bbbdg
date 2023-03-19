@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"interesting","permalink":"/interesting/"}
+{"dg-publish":true,"dg-permalink":"interesting","permalink":"/interesting/","created":"","updated":""}
 ---
 
 
