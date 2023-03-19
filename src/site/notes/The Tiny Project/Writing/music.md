@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/"}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"","updated":""}
 ---
 
 
