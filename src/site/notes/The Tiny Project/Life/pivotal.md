@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"pivotal","permalink":"/pivotal/"}
+{"dg-publish":true,"dg-permalink":"pivotal","permalink":"/pivotal/","created":"","updated":""}
 ---
 
 
