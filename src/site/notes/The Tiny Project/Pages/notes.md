@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"mynotes","permalink":"/mynotes/"}
+{"dg-publish":true,"dg-permalink":"mynotes","permalink":"/mynotes/","created":"","updated":""}
 ---
 
 
@@ -17,7 +17,7 @@ don't fear [[The Tiny Project/Life/endings\|endings]], embrace them
 this is a [[The Tiny Project/Life/pivotal\|pivotal]] moment 
 [[The Tiny Project/Life/chesters\|chesters]].
 my [[The Tiny Project/Life/credo\|credo]]: 10 things I believe about life
-love is [[The Tiny Project/Life/blind\|blind]]
+love is [[The Tiny Project/Life/blind\|The Tiny Project/Life/blind]]
 the bond between a blind man and his guide [[The Tiny Project/Life/dog\|dog]]
 I met a blind man and, reader, I [[The Tiny Project/Life/married\|married]] him!
 my husband lost his [[The Tiny Project/Life/sight\|sight]] but gained a new life
