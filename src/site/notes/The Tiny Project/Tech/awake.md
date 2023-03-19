@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"awake","permalink":"/awake/"}
+{"dg-publish":true,"dg-permalink":"awake","permalink":"/awake/","created":"","updated":""}
 ---
 
 
