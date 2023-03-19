@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"critic","permalink":"/critic/"}
+{"dg-publish":true,"dg-permalink":"critic","permalink":"/critic/","created":"","updated":""}
 ---
 
 
