@@ -14,3 +14,8 @@
 [[Nicola Fisher Writer/Podcast/3. putting your head above the parapet and napkins\|3. putting your head above the parapet and napkins]]
 [[Nicola Fisher Writer/Podcast/2. money for nothing and your chips for free\|2. money for nothing and your chips for free]]
 [[Nicola Fisher Writer/Podcast/1. welcome back to the podcast\|1. welcome back to the podcast]]
+
+---
+
+Back to the [[Nicola Fisher Writer/Pages/start\|start]]
+
