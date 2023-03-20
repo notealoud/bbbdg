@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"gilda","permalink":"/gilda/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"gilda","permalink":"/gilda/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
