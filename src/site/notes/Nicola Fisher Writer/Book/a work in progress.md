@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"work","permalink":"/work/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"work","permalink":"/work/","tags":["writing, book"],"created":"","updated":""}
 ---
 
 
@@ -9,4 +9,3 @@
 
 So, here we are again. Starting over.
 
-#writing/book 
