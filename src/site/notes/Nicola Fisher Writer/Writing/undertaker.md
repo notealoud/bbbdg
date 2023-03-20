@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"undertaker","permalink":"/undertaker/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"undertaker","permalink":"/undertaker/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
