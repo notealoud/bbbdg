@@ -3,6 +3,8 @@
 ---
 
 
+![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
+
 ## welcome to my digital garden
 
 I'm Nicola, and I'm most at home with tech, spending time with cows and being out in nature. 
