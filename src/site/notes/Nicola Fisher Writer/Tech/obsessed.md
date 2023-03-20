@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"obsessed","permalink":"/obsessed/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"obsessed","permalink":"/obsessed/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
