@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"meeting","permalink":"/meeting/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"meeting","permalink":"/meeting/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
