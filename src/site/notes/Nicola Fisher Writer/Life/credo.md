@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"credo","permalink":"/credo/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"credo","permalink":"/credo/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
