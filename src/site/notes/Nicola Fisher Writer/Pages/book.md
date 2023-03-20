@@ -5,4 +5,4 @@
 
 ## book writing
 
-[[Nicola Fisher Writer/Book/work\|work]]
+a [[Nicola Fisher Writer/Book/work\|work]] in progress
