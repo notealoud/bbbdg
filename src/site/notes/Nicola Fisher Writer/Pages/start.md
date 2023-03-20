@@ -16,5 +16,7 @@ I'm Nicola, and I'm most at home with tech, spending time with cows and being ou
 - Read my [[Nicola Fisher Writer/Pages/bio\|bio]]
 - Read my [[Nicola Fisher Writer/Pages/book\|book]]
 - Read my [[Nicola Fisher Writer/Pages/notes\|notes]]
+- Listen to the [[Nicola Fisher Writer/Pages/podcast\|podcast]]
 - Read what I'm doing [[Nicola Fisher Writer/Pages/now\|now]]
+
 
