@@ -17,7 +17,7 @@ don't fear [[Nicola Fisher Writer/Life/endings\|endings]], embrace them
 this is a [[Nicola Fisher Writer/Life/pivotal\|pivotal]] moment 
 [[Nicola Fisher Writer/Life/chesters\|chesters]].
 my [[Nicola Fisher Writer/Life/credo\|credo]]: 10 things I believe about life
-love is [[Nicola Fisher Writer/Life/blind\|Nicola Fisher Writer/Life/blind]]
+love is [[Nicola Fisher Writer/Life/blind\|blind]]
 the bond between a blind man and his guide [[Nicola Fisher Writer/Life/dog\|dog]]
 I met a blind man and, reader, I [[Nicola Fisher Writer/Life/married\|married]] him!
 my husband lost his [[Nicola Fisher Writer/Life/sight\|sight]] but gained a new life
