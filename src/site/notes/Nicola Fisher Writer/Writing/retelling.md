@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"retelling","permalink":"/retelling/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"retelling","permalink":"/retelling/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
