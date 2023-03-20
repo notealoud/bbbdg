@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"podindex","permalink":"/podindex/","dgPassFrontmatter":true,"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"podcast","permalink":"/podcast/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
