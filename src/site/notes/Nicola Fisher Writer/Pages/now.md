@@ -29,6 +29,10 @@ Substack: I really like this platform but it's not working for me at all right n
 Medium: I make a small monthly income despite not writing anything much at all. It covers my monthly subscription and buys me a coffee or two.
 Podcasts: all deleted. The plan - some day - is to record on Substack.
 
+## what I'm actually doing
+
+Revisiting my digital garden. I merged my old and new gardens into one. Writing in Obsidian is a quick win. By its very nature, a work in progress. I don't have to strive for perfection or completion. In many ways, I'm simply writing for myself. I suspect very few people read any of my writing and, at times like this, that suits me. 
+
 ## work
 
 Still very busy and lots to do but the 12 month plan is being implemented, two new staff have joined which is helping. I've taken on a new project so am at full capacity.
@@ -53,7 +57,7 @@ I've realised that I've reached rock bottom ... again! I've put my all into work
 
 *Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about).*
 
-*Last update: 19th March 2023*
+*Last update: 20th March 2023*
 
 <style>
   .wrapper {
