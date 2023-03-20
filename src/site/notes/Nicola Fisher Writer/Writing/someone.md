@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"someone","permalink":"/someone/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"someone","permalink":"/someone/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
