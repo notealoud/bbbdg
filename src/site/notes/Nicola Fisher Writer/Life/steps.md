@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"steps","permalink":"/steps/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"steps","permalink":"/steps/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
