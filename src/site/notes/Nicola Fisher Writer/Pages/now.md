@@ -13,8 +13,6 @@
 
 This is what I'm *supposed to be* working on in 2023. A tiny project involving tiny blogs, podcasts and videos. The plan is to get more done by creating smaller things.
 
-Find out more [here](https://bit.ly/thetinyproject).
-
 > “The most valuable real estate in the world is the graveyard. There lie millions of half-written books, ideas never launched, and talents never developed. Most people die with everything still inside of them. The way to live is to create. Die empty. Get every idea out of your head and into reality. Calling yourself creative doesn’t make it true. Make finishing your top priority.”
 
 ~ *Derek Sivers, [How to Live](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=b1c88d16a9&e=bc5cbc9b90)*
@@ -27,9 +25,9 @@ I'm at that place I've been before when I'm tempted to burn everything down. I h
 
 I've pared back some more on my plans. I made things far too complicated in January. 
 
-Substack: I really like this platform but it's not working for me at all right now.
+Substack: I really like this platform but it's not working for me at all right now. So, I've razed it to the ground.
 Medium: I make a small monthly income despite not writing anything much at all. It covers my monthly subscription and buys me a coffee or two.
-Podcasts: all deleted. The plan - some day - is to record on Substack.
+Podcasts: all deleted. I'm rehoming them on Obsidian.
 
 ## what I'm actually doing
 
