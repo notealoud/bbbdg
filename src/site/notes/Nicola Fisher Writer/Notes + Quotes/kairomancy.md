@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"kairomancy","permalink":"/kairomancy/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"kairomancy","permalink":"/kairomancy/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
