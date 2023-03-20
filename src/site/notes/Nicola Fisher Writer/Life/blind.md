@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"love","permalink":"/love/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"love","permalink":"/love/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
