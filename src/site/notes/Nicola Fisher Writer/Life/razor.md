@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"razor","permalink":"/razor/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"razor","permalink":"/razor/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
