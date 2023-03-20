@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"dog","permalink":"/dog/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"dog","permalink":"/dog/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
