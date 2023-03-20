@@ -55,8 +55,6 @@ On a weekly basis I find more ways to use Twos. I create new lists and add conte
 
 I've realised that I've reached rock bottom ... again! I've put my all into work, other projects (not mine) and there's nothing left. I'm depleted and not refilling the well. I do this on a regular basis. I still haven't learned to recognise the signs. I'm making small inroads into addressing this.
 
-<style>
-  .wrapper {
-    max-width: 52em;
-  }
-</style>
+---
+
+Back to the [[Nicola Fisher Writer/Pages/start\|start]]
