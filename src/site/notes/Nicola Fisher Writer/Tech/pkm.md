@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"pkm","permalink":"/pkm/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"pkm","permalink":"/pkm/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
