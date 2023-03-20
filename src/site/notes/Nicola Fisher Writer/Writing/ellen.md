@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"ellen","permalink":"/ellen/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"ellen","permalink":"/ellen/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
