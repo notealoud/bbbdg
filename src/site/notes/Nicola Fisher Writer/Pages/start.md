@@ -3,7 +3,7 @@
 ---
 
 
-![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
+![](https://source.unsplash.com/LaqL8nxiacc/1900x1200)
 
 “The most valuable real estate in the world is the graveyard. There lie millions of half-written books, ideas never launched, and talents never developed. Most people die with everything still inside of them. The way to live is to create. Die empty. Get every idea out of your head and into reality. Calling yourself creative doesn’t make it true. Make finishing your top priority.” ~ Derek Sivers, How to Live 
 
