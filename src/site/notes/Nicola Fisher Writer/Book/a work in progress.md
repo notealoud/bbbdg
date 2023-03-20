@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"work","permalink":"/work/","tags":["writing, book"],"created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"work","permalink":"/work/","tags":["writing"],"created":"","updated":""}
 ---
 
 
