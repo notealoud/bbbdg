@@ -3,9 +3,11 @@
 ---
 
 
-![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
+## what I'm doing now ... 
 
-What I'm doing now ... 
+*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 20th March 2023*
+
+![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
 
 ## the tiny project
 
@@ -52,12 +54,6 @@ On a weekly basis I find more ways to use Twos. I create new lists and add conte
 ## personal
 
 I've realised that I've reached rock bottom ... again! I've put my all into work, other projects (not mine) and there's nothing left. I'm depleted and not refilling the well. I do this on a regular basis. I still haven't learned to recognise the signs. I'm making small inroads into addressing this.
-
----
-
-*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about).*
-
-*Last update: 20th March 2023*
 
 <style>
   .wrapper {
