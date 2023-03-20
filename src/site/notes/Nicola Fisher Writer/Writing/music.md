@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"music","permalink":"/music/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
