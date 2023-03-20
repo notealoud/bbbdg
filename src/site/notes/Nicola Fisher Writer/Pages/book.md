@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"bio","permalink":"/bio/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"book","permalink":"/book/","created":"","updated":""}
 ---
 
 
