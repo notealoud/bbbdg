@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"oscars","permalink":"/oscars/","created":"","updated":""}
+{"dg-publish":true,"dg-permalink":"oscars","permalink":"/oscars/","dgPassFrontmatter":true,"created":"","updated":""}
 ---
 
 
