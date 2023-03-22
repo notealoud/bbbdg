@@ -9,7 +9,7 @@
 
 ## welcome to my digital garden
 
-I'm Nicola, and I'm most at home with tech, spending time with cows and being out in nature. 
+I'm Nicola, and I'm most at home with tech, spending time with cows and being out in nature. I love PKM.
 
 ## get to know more about me
 
