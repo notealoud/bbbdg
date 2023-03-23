@@ -17,5 +17,5 @@
 
 ---
 
-Back to the [[Digital Garden/* Start Here/start\|start]]
+Back to the [[Digital Garden/* Start Here/* start\|* start]]
 
