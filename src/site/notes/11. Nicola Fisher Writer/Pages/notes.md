@@ -49,7 +49,7 @@ don't try to be like [[11. Nicola Fisher Writer/Writing/someone\|someone]] else
 the [[11. Nicola Fisher Writer/Writing/retelling\|retelling]] of alice's story
 have you found your [[11. Nicola Fisher Writer/Writing/rat\|rat]] people?
 don't die with your [[11. Nicola Fisher Writer/Writing/music\|music]] still in you
-why you need to keep a daily [[11. Nicola Fisher Writer/Writing/log\|log]]
+why you need to keep a daily [[11. Nicola Fisher Writer/Writing/log\|11. Nicola Fisher Writer/Writing/log]]
 if someone asks you to [[11. Nicola Fisher Writer/Writing/dance\|dance]], say yes
 
 ## quotes
