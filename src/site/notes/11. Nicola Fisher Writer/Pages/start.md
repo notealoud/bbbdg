@@ -9,11 +9,12 @@
 
 ## welcome to my digital garden
 
-I'm Nicola, and I'm most at home with tech, spending time with cows and being out in nature. I love PKM.
+I'm Nicola, and I'm most at home with tech, spending time with cows and being out in nature. 
 
 ## get to know more about me
 
 - Read my [[11. Nicola Fisher Writer/Pages/bio\|bio]]
+- Read my [[11. Nicola Fisher Writer/Pages/log\|log]]
 - Read my [[11. Nicola Fisher Writer/Pages/book\|book]]
 - Read my [[11. Nicola Fisher Writer/Pages/notes\|notes]]
 - Listen to the [[11. Nicola Fisher Writer/Pages/podcast\|podcast]]
