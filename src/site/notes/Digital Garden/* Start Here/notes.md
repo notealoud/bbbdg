@@ -54,16 +54,16 @@ if someone asks you to [[Digital Garden/Notes/Writing/dance\|dance]], say yes
 
 ## quotes
 
-it's not the [[Digital Garden/Notes + Quotes/critic\|critic]] who counts
-ideas are a disembodied, [[Digital Garden/Notes + Quotes/energetic\|energetic]] life form
-[[Digital Garden/Notes + Quotes/getting\|getting]] on
-be [[Digital Garden/Notes + Quotes/interesting\|interesting]] on the page
-what would you say [[Digital Garden/Notes + Quotes/next\|next]]?
-watching the [[Digital Garden/Notes + Quotes/oscars\|oscars]] in your pyjamas
-don't try to [[Digital Garden/Notes + Quotes/save\|save]] the whole world
-making the self who will [[Digital Garden/Notes + Quotes/speak\|speak]]
-do [[Digital Garden/Notes + Quotes/stuff\|stuff]]
-living a [[Digital Garden/Notes + Quotes/successful\|successful]] life
+it's not the [[Digital Garden/Quotes/critic\|critic]] who counts
+ideas are a disembodied, [[Digital Garden/Quotes/energetic\|energetic]] life form
+[[Digital Garden/Quotes/getting\|getting]] on
+be [[Digital Garden/Quotes/interesting\|interesting]] on the page
+what would you say [[Digital Garden/Quotes/next\|next]]?
+watching the [[Digital Garden/Quotes/oscars\|oscars]] in your pyjamas
+don't try to [[Digital Garden/Quotes/save\|save]] the whole world
+making the self who will [[Digital Garden/Quotes/speak\|speak]]
+do [[Digital Garden/Quotes/stuff\|stuff]]
+living a [[Digital Garden/Quotes/successful\|successful]] life
 
 ---
 
