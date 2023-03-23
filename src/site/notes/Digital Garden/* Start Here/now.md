@@ -55,4 +55,4 @@ I've realised that I've reached rock bottom ... again! I've put my all into work
 
 ---
 
-Back to the [[Digital Garden/* Start Here/start\|start]]
+Back to the [[Digital Garden/* Start Here/* start\|* start]]
