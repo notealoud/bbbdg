@@ -11,6 +11,16 @@ I'm an INFP. I'm unconventional, quirky, an introvert and live outside the circl
 
 I have an eclectic range of interests. 
 
+## find me
+
+- [Twitter](https://twitter.com/mrsnfshr)
+- [Mastodon (PKM)](https://pkm.social/@nicola)
+- [Mastodon (Medium)](https://me.dm/@thetinyproject)
+- [Instagram](https://www.instagram.com/thetinymoment/)
+- [Medium](https://thetinyproject.medium.com/)
+- [Substack](https://ephemerallollipop.substack.com/)
+- [NotePD](https://notepd.com/profile/nicolafisher)
+
 ## writing
 
 I write about the intersection between tech and living at a gentler pace. I'm exploring the premise that, if more of us lived a gentle life, reconnected to who we truly are, or our essence, as I call it, we could change the world for the better. 
