@@ -190,7 +190,7 @@ My big goal for this year is to write and publish my book.
 
 I started a daily log.
 
-- [[08. Notes, Quotes, Refs/how compiling a daily log in Napkin improves my idea generation\|how compiling a daily log in Napkin improves my idea generation]]
+- [[08 Notes, Quotes, Refs/how compiling a daily log in Napkin improves my idea generation\|how compiling a daily log in Napkin improves my idea generation]]
 
 I (re)discovered the tiny web.
 
