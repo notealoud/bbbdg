@@ -9,4 +9,4 @@ a [[Digital Garden/Book/Section 0/0. A Work in Progress\|0. A Work in Progress]]
 
 ---
 
-Back to the [[Digital Garden/* Start Here/* start\|* start]]
+Back to the [[Digital Garden/* start\|* start]]
