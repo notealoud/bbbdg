@@ -43,13 +43,16 @@ I got married. 11 months later I left.
 
 ### 2002
 
-- [[Digital Garden/Log/'ey up\|'ey up]]
+Some old blogs from back in the day!
 
+- [[Digital Garden/Log/'ey up\|'ey up]]
 - [[Digital Garden/Log/tgif\|tgif]]
 
 ---
 
 ### 2003
+
+More old blogs from when it was a thing!
 
 - [[Digital Garden/Log/tallulah\|tallulah]]
 
@@ -77,7 +80,7 @@ My Mum died.
 
 Started a new job as a Business Advisor.
 
-- [[01 Blot/publish/how do you make people feel?\|01 Blot/publish/how do you make people feel?]]
+- [[Digital Garden/Log/how do you make people feel?\|how do you make people feel?]]
 
 ---
 
@@ -165,7 +168,7 @@ And discovered it made me more prolific as a writer.
 
 I bought a typewriter.
 
-- [[Nicola Writes/notes/I bought a typewriter and use it every day\|Nicola Writes/notes/I bought a typewriter and use it every day]]
+- [[Digital Garden/Notes/Writing/I bought a typewriter and use it every day\|I bought a typewriter and use it every day]]
 
 I summarised my year.
 
@@ -186,7 +189,7 @@ I talked about burnout and burning my bridges. Or not.
 
 My big goal for this year is to write and publish my book.
 
-- [[Nicola Writes/notes/Obsidian is a game changer if you want to write a book\|Nicola Writes/notes/Obsidian is a game changer if you want to write a book]]
+- [[Digital Garden/Notes/Tech/Obsidian is a game changer if you want to write a book\|Obsidian is a game changer if you want to write a book]]
 
 I started a daily log.
 
