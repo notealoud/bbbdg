@@ -67,6 +67,6 @@ living a [[Digital Garden/Quotes/successful\|successful]] life
 
 ---
 
-Back to the [[Digital Garden/* Start Here/* start\|* start]]
+Back to the [[Digital Garden/* start\|* start]]
 
 
