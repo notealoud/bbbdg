@@ -26,6 +26,7 @@ don't put the blind [[Digital Garden/Notes/Life/man\|man]] in the corner
 [[Digital Garden/Notes/Life/gardening\|gardening]]
 my favourite [[Digital Garden/Notes/Life/mugs\|mugs]] and the memories they hold
 
+---
 
 ## tech
 
@@ -36,9 +37,13 @@ my [[Digital Garden/Notes/Tech/early\|early]] days with Obsidian
 why Obsidian is keeping me [[Digital Garden/Notes/Tech/awake\|awake]] at night
 why [[Digital Garden/Notes/Tech/pkm\|pkm]] is a game changer 
 
+---
+
 ## creating
 
 [[Digital Garden/Notes/Creating/creation\|creation]] is hard
+
+---
 
 ## writing
 
@@ -51,6 +56,8 @@ have you found your [[Digital Garden/Notes/Writing/rat\|rat]] people?
 don't die with your [[Digital Garden/Notes/Writing/music\|music]] still in you
 why you need to keep a daily [[Digital Garden/Notes/Writing/log\|Digital Garden/Notes/Writing/log]]
 if someone asks you to [[Digital Garden/Notes/Writing/dance\|dance]], say yes
+
+---
 
 ## quotes
 
