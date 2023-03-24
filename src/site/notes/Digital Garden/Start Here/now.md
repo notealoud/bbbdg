@@ -13,6 +13,8 @@
 
 ~ *Derek Sivers, [How to Live](https://londonwriterssalon.us4.list-manage.com/track/click?u=8b047263967451488070a8ad0&id=b1c88d16a9&e=bc5cbc9b90)*
 
+---
+
 ## the ephemeral lollipop
 
 In the last few days I cleared out a lot of old stuff, websites that were going nowhere and creative projects that had stalled. I've always been one for burning bridges. I don't believe in going back. Forward motion is what's required. 
@@ -23,15 +25,21 @@ I've started diving back into Obsidian. All my notes were in there (or here as t
 
 Perhaps this is simply the nature of creating.
 
+---
+
 ## this is what I did
 
 Substack: I really like this platform but it's not working for me at all right now. So, I've razed it to the ground.
 Medium: I make a small monthly income despite not writing anything much at all. It covers my monthly subscription and buys me a coffee or two.
 Podcasts: all deleted. I'm rehoming them on Obsidian.
 
+---
+
 ## Obsidian
 
 I've been on a mission this year to pare back on multiple domain names. I merged two digital gardens and transferred over a domain name. I've rediscovered my love for Obsidian. By its very nature, a work in progress. I don't have to strive for perfection or completion. In many ways, I'm simply writing for myself. I suspect very few people read any of my writing and, at times like this, that suits me. 
+
+---
 
 ## work
 
@@ -39,11 +47,15 @@ Still very busy and lots to do but the 12 month plan is being implemented, two n
 
 I realised the other day, driving home from work, that although I like what I do it doesn't give me a creative buzz. I've felt tired for months, partly from doing so much but also, I think, from doing too little of what lights me up. Just getting back into fiddling with Obsidian has brought me back to life again.
 
+---
+
 ## personal
 
 I've allowed myself to be taken over by demands and responsibilities, and found myself in a rut. I've taken a line of least resistance. It's been easier just to go with the flow. I've been exhausted and not had the energy to do anything about it. Now that Spring is here, the mornings are lighter earlier, it's as though I've had a boost of energy. I know it requires discipline to carve out time for myself despite how hard that seems to be. 
 
 I want to see my cows, walk a lot more, potter in the garden. I'm going to adopt a work to rule approach. No more late nights, no more weekend working. Let's see how that pans out! I took on this work because it was part time and would enable me to fit in other stuff but it's been so all consuming and overwhelming, it's not worked out that way. 
+
+---
 
 ## twos
 
