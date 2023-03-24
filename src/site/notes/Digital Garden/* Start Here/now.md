@@ -55,4 +55,4 @@ On a weekly basis I find more ways to use Twos. I create new lists and add conte
 
 ---
 
-Back to the [[Digital Garden/* Start Here/* start\|* start]]
+Back to the [[Digital Garden/* start\|* start]]
