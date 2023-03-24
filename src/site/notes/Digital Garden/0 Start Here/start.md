@@ -9,7 +9,7 @@
 
 ## welcome to my digital garden
 
-I'm Nicola, and I'm most at home with tech, spending time with cows and being out in nature. 
+I'm Nicola, and I'm most at home with tech, spending time with cows and being out in nature. I'm a writer, podcaster and photographer. I live in a small village in the Peak Park area of Derbyshire with my husband, [Chris](https://theblindwoodturner.co.uk), and his Guide Dog, Bamber. By day, I work a busy job, by night I tinker with tech, PKM and writing. This digital garden is currently my sole web(site) presence.
 
 ## get to know more about me
 
