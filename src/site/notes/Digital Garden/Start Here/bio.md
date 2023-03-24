@@ -11,6 +11,8 @@ I'm an INFP. I'm unconventional, quirky, an introvert and live outside the circl
 
 I have an eclectic range of interests. 
 
+---
+
 ## find me
 
 - [Twitter](https://twitter.com/mrsnfshr)
@@ -20,6 +22,8 @@ I have an eclectic range of interests.
 - [Medium](https://thetinyproject.medium.com/)
 - [Substack](https://ephemerallollipop.substack.com/)
 - [NotePD](https://notepd.com/profile/nicolafisher)
+
+---
 
 ## writing
 
