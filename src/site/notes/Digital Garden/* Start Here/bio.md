@@ -19,4 +19,4 @@ I write about the intersection between tech and living at a gentler pace. I'm ex
 
 ---
 
-Back to the [[Digital Garden/* Start Here/* start\|* start]]
+Back to the [[Digital Garden/* start\|* start]]
