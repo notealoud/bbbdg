@@ -19,7 +19,7 @@ I was born in Manchester, UK.
 
 I lived in Paris for a year and studied at the Sorbonne.
 
-- How I met [[Digital Garden/Notes/Life/bill\|bill]] Murray in Paris
+- How I met [[Digital Garden/Notes/Life/bill\|Bill]] Murray in Paris
 
 ---
 
@@ -54,7 +54,7 @@ Some old blogs from back in the day!
 
 More old blogs from when it was a thing!
 
-- [[Digital Garden/Log/tallulah\|tallulah]]
+- a day in the life of [[Digital Garden/Log/tallulah\|tallulah]]
 
 ---
 
@@ -166,18 +166,13 @@ And discovered it made me more prolific as a writer.
 
 - [[Nicola Writes/notes/why Obsidian is so great for writing\|Nicola Writes/notes/why Obsidian is so great for writing]]
 
-I bought a typewriter.
-
-- [[Digital Garden/Notes/Writing/I bought a typewriter and use it every day\|I bought a typewriter and use it every day]]
+[[Digital Garden/Notes/Writing/I bought a typewriter and use it every day\|I bought a typewriter and use it every day]]
 
 I summarised my year.
 
 - [[Nicola Writes/notes/state of the union 2021\|Nicola Writes/notes/state of the union 2021]]
 
-I wrote more about PKM.
-
-- [[Digital Garden/Log/why personal knowledge management is a game changer\|why personal knowledge management is a game changer]]
-- [[Digital Garden/Log/why I'm obsessed with Obsidian\|why I'm obsessed with Obsidian]]
+I wrote more about PKM, [[Digital Garden/Log/why personal knowledge management is a game changer\|why personal knowledge management is a game changer]] and [[Digital Garden/Log/why I'm obsessed with Obsidian\|why I'm obsessed with Obsidian]]
 
 I talked about burnout and burning my bridges. Or not.
 
@@ -189,12 +184,8 @@ I talked about burnout and burning my bridges. Or not.
 
 My big goal for this year is to write and publish my book.
 
-- [[Digital Garden/Notes/Tech/Obsidian is a game changer if you want to write a book\|Obsidian is a game changer if you want to write a book]]
+[[Digital Garden/Notes/Tech/Obsidian is a game changer if you want to write a book\|Obsidian is a game changer if you want to write a book]]
 
-I started a daily log.
+I learned [[08 Notes, Quotes, Refs/how compiling a daily log in Napkin improves my idea generation\|how compiling a daily log in Napkin improves my idea generation]]
 
-- [[08 Notes, Quotes, Refs/how compiling a daily log in Napkin improves my idea generation\|how compiling a daily log in Napkin improves my idea generation]]
-
-I (re)discovered the tiny web.
-
-- [[Digital Garden/Log/the tiny web\|the tiny web]]
+I (re)discovered [[Digital Garden/Log/the tiny web\|the tiny web]].
