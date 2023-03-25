@@ -5,7 +5,7 @@
 
 ![](https://source.unsplash.com/iXRVqQtBa_8/1900x1200)
 
-*I recently came across some old style websites that reminded me of the flat HTML sites I used to create back in the day, when blogging wasn't yet quite a thing and personal websites were a rabbit warren of links. It gave me the idea of making an autobiographical timeline/about page. This will be a work in progress for a while but I hope you like it!*
+*I recently came across some old style websites that reminded me of the flat HTML sites I used to create back in the day, when blogging wasn't yet quite a thing and personal websites were a rabbit warren of links. It gave me the idea of making an autobiographical timeline/about page. This will be **a work in progress** for a while as I tidy up links but I hope you like it!*
 
 ---
 
