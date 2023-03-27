@@ -5,7 +5,7 @@
 
 ## what I'm doing now ... 
 
-*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 24th March 2023*
+*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 27th March 2023*
 
 ![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
 
@@ -17,11 +17,11 @@
 
 ## the ephemeral lollipop
 
-In the last few days I cleared out a lot of old stuff, websites that were going nowhere and creative projects that had stalled. I've always been one for burning bridges. I don't believe in going back. Forward motion is what's required. 
+In the past week or so I've been clearing out a lot of old stuff, websites that were going nowhere and creative projects that had stalled. I've always been one for burning bridges. I don't believe in going back. Forward motion is what's required. 
 
 The razing to the ground has helped. I didn't expect it to. I thought I was just going to stand facing a brick wall until I could find a way around it.
 
-I've started diving back into Obsidian. All my notes were in there (or here as that's where I write my Now page). My book which I'd abandoned and given up on has been revived. I'm regrouping. I've pulled the pages out of the drawer and found there is some hope. Plus a new perspective that's developed over the intervening months. All is not lost after all.
+I've started diving back into Obsidian. All my notes were in there (or here as that's where I write my Now page). My book which I'd abandoned and given up on has been revived. I'm regrouping. I've pulled the pages out of the metaphorical drawer and found there is some hope. As well as a new perspective that's developed over the intervening months. All is not lost after all.
 
 Perhaps this is simply the nature of creating.
 
@@ -29,15 +29,23 @@ Perhaps this is simply the nature of creating.
 
 ## this is what I did
 
-Substack: I really like this platform but it's not working for me at all right now. So, I've razed it to the ground.
-Medium: I make a small monthly income despite not writing anything much at all. It covers my monthly subscription and buys me a coffee or two.
-Podcasts: all deleted. I'm rehoming them on Obsidian.
+Substack: I really like this platform but it's not working for me at all right now. So, I've razed it to the ground. I'm not sure yet what purpose this will fulfil.
+Medium: I make a small monthly income despite not writing anything much at all. It covers my monthly subscription and buys me a coffee or two. I'm revisiting old draft ideas and plan to post these on Medium.
+Podcasts: all deleted. I'm rehoming them on Obsidian. I love audio and am pondering how I can continue to podcast.
 
 ---
 
 ## Obsidian
 
 I've been on a mission this year to pare back on multiple domain names. I merged two digital gardens and transferred over a domain name. I've rediscovered my love for Obsidian. By its very nature, a work in progress. I don't have to strive for perfection or completion. In many ways, I'm simply writing for myself. I suspect very few people read any of my writing and, at times like this, that suits me. 
+
+---
+
+## writing
+
+I'm writing! Pen to paper. Fingers to keyboard. 
+
+The world is changing/has changed. I want to write about that. About the options we have. Where we could be headed. Where we want to be headed. Writing about this is thinking out loud. It fascinates me. There are so many facets of this discussion.
 
 ---
 
