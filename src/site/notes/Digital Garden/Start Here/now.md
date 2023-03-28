@@ -5,7 +5,7 @@
 
 ## what I'm doing now ... 
 
-*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 27th March 2023*
+*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 28th March 2023*
 
 ![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
 
@@ -46,6 +46,12 @@ I've been on a mission this year to pare back on multiple domain names. I merged
 I'm writing! Pen to paper. Fingers to keyboard. 
 
 The world is changing/has changed. I want to write about that. About the options we have. Where we could be headed. Where we want to be headed. Writing about this is thinking out loud. It fascinates me. There are so many facets of this discussion.
+
+---
+
+## book
+
+I always hesitate to write about *my book* for fear of jinxing it. This book has been in the works for a long time! Each time I've abandoned it in despair, believing that I was done with it, I've been proved wrong. Now, thanks to the miracles of Obsidian, I've moved all my book notes into one folder. It's a mess. There is a lot that needs to be rewritten and more than needs to be organised. I'm not sure how I'm going to do it yet. I suspect it might involve Post-Its.
 
 ---
 
