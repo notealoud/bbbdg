@@ -5,7 +5,7 @@
 
 ## what I'm doing now ... 
 
-*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 28th March 2023*
+*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 31st March 2023*
 
 ![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
 
@@ -37,15 +37,15 @@ Podcasts: all deleted. I'm rehoming them on Obsidian. I love audio and am ponder
 
 ## Obsidian
 
-I've been on a mission this year to pare back on multiple domain names. I merged two digital gardens and transferred over a domain name. I've rediscovered my love for Obsidian. By its very nature, a work in progress. I don't have to strive for perfection or completion. In many ways, I'm simply writing for myself. I suspect very few people read any of my writing and, at times like this, that suits me. 
+I've been spending a lot of time lately honing my Obsidian Vault. I've restructured it along the lines of PARA, which has helped massively. (I've also set up my email and file structure in the same way). I'm using a new to me plugin, Projects, to create a content plan. Writing, here we come! 
+
+I've created project plans which has given me greater clarity about all the plates I'm currently spinning. This week has been a bit easier, although busy, and I feel as if I've moved forward.
 
 ---
 
 ## writing
 
-I'm writing! Pen to paper. Fingers to keyboard. 
-
-The world is changing/has changed. I want to write about that. About the options we have. Where we could be headed. Where we want to be headed. Writing about this is thinking out loud. It fascinates me. There are so many facets of this discussion.
+Even though I have little time, getting back into Obsidian has helped me rediscover my mojo. As I mentioned here previously, knowing that what I write doesn't have to be perfect (digital garden philosophy) has made things easier.
 
 ---
 
@@ -53,11 +53,13 @@ The world is changing/has changed. I want to write about that. About the options
 
 I always hesitate to write about *my book* for fear of jinxing it. This book has been in the works for a long time! Each time I've abandoned it in despair, believing that I was done with it, I've been proved wrong. Now, thanks to the miracles of Obsidian, I've moved all my book notes into one folder. It's a mess. There is a lot that needs to be rewritten and more than needs to be organised. I'm not sure how I'm going to do it yet. I suspect it might involve Post-Its.
 
+I'm pondering ways of managing and structuring my book. Not sure yet whether Projects will lend itself to this. I think I need some sort of grid where I can lay out the content.
+
 ---
 
 ## work
 
-Still very busy and lots to do but the 12 month plan is being implemented, two new staff have joined which is helping. I've taken on a new project so am at full capacity.
+Still very busy and lots to do but the 12 month plan is being implemented, two new staff have joined which is helping. I've taken on a new project so am at full capacity. We have started to make visible progress. Things are starting to come together.
 
 I realised the other day, driving home from work, that although I like what I do it doesn't give me a creative buzz. I've felt tired for months, partly from doing so much but also, I think, from doing too little of what lights me up. Just getting back into fiddling with Obsidian has brought me back to life again.
 
