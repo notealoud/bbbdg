@@ -9,7 +9,7 @@ I'm a writer, podcaster and photographer. I live in a small village in the Peak 
 
 I'm an INFP. I'm unconventional, quirky, an introvert and live outside the circle. That might make me eccentric.
 
-I have an eclectic range of interests. 
+I have an eclectic range of interests. You can find some of these in my [[Digital Garden/Start Here/log\|log]].
 
 ---
 
