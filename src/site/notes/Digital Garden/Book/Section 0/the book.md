@@ -68,7 +68,7 @@
 
 ### Section Appendix
 
-[[Digital Garden/Book/Section Appendix/Resources\|Resources]]
+[[Digital Garden/Book/Section 8/Resources\|Resources]]
 
 ---
 
