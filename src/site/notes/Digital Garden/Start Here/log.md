@@ -186,6 +186,6 @@ My big goal for this year is to write and publish my book.
 
 [[Digital Garden/Notes/Tech/Obsidian is a game changer if you want to write a book\|Obsidian is a game changer if you want to write a book]]
 
-I learned [[Operating Manual/3 Resources/Notes, Quotes, Refs/how compiling a daily log in Napkin improves my idea generation\|how compiling a daily log in Napkin improves my idea generation]]
+I learned [[PARA/3 Resources/Notes, Quotes, Refs/how compiling a daily log in Napkin improves my idea generation\|how compiling a daily log in Napkin improves my idea generation]]
 
 I (re)discovered [[Digital Garden/Log/the tiny web\|the tiny web]].
