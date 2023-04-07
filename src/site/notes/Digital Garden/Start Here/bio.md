@@ -15,6 +15,7 @@ I have an eclectic range of interests. You can find some of these in my [[Digita
 
 ## find me
 
+- [Twos](https://www.TwosApp.com/@Nicola)
 - [Twitter](https://twitter.com/mrsnfshr)
 - [Mastodon (PKM)](https://pkm.social/@nicola)
 - [Mastodon (Medium)](https://me.dm/@thetinyproject)
