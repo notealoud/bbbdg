@@ -5,7 +5,7 @@
 
 ## what I'm doing now ... 
 
-*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 31st March 2023*
+*Part of [this](https://nownownow.com/about). Create [your own page](https://nownownow.com/about). Last update: 8th April 2023*
 
 ![](https://source.unsplash.com/KjnR2yEgit0/1900x1200)
 
@@ -25,13 +25,17 @@ I've started diving back into Obsidian. All my notes were in there (or here as t
 
 Perhaps this is simply the nature of creating.
 
+I'm thinking a lot about minimalism. Having less. Decluttering. Letting go. It always works for me. Making space. I'm pondering how I can create a sustainable, minimal online presence where I can be present. 
+
 ---
 
 ## this is what I did
 
-Substack: I really like this platform but it's not working for me at all right now. So, I've razed it to the ground. I'm not sure yet what purpose this will fulfil.
-Medium: I make a small monthly income despite not writing anything much at all. It covers my monthly subscription and buys me a coffee or two. I'm revisiting old draft ideas and plan to post these on Medium.
-Podcasts: all deleted. I'm rehoming them on Obsidian. I love audio and am pondering how I can continue to podcast.
+Substack: I really like this platform but it's not working for me at all right now. So, I've razed it to the ground. I'm not sure yet what purpose this will fulfil. Looking out for Notes to land on my account. I see potential for these. I'm turned off by the whole hustle culture and personal brand. I tried that and it didn't work for me. I'm thinking blogging and quirkiness.
+
+Medium: I make a small monthly income despite not writing anything much at all. It covers my monthly subscription and buys me a coffee or two. I'm revisiting old draft ideas and plan to post these on Medium. Medium will probably be my tech writing outlet.
+
+Podcasts: all deleted. I'm rehoming them on Obsidian. I love audio and am pondering how I can continue to podcast. Possibly through Substack.
 
 ---
 
@@ -40,6 +44,8 @@ Podcasts: all deleted. I'm rehoming them on Obsidian. I love audio and am ponder
 I've been spending a lot of time lately honing my Obsidian Vault. I've restructured it along the lines of PARA, which has helped massively. (I've also set up my email and file structure in the same way). I'm using a new to me plugin, Projects, to create a content plan. Writing, here we come! 
 
 I've created project plans which has given me greater clarity about all the plates I'm currently spinning. This week has been a bit easier, although busy, and I feel as if I've moved forward.
+
+I've streamlined all my to do lists and used Dataview to create monthly and yearly lists.
 
 ---
 
