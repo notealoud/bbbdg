@@ -33,4 +33,4 @@ Being human is a soul experience.
 
 ---
 
-Back to the [[table of contents\|table of contents]]
+Return to [[Digital Garden/Book/Section 0/the book\|the book]] Index
