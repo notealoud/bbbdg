@@ -66,9 +66,9 @@
 
 ---
 
-### Section Appendix
+### Section 8
 
-[[Digital Garden/Book/Section 8/Resources\|Resources]]
+[[Digital Garden/Book/Section 8/Epilogue\|Epilogue]]
 
 ---
 
