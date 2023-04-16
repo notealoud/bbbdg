@@ -15,7 +15,7 @@ You might be able to find me on [Substack](https://ephemerallollipop.substack.co
 
 I've fallen out of love with [Instagram](https://medium.com/@thetinyproject) but occasionally post to Stories.
 
-I'm dabbling with [Twitter](https://twitter.com/mrsnfshr) again to keep in touch with [Twos](https://www.twosapp.com/home) developments.
+I'm dabbling with [Twitter](https://twitter.com/mrsnfshr) again to keep in touch with [Twos](https://www.TwosApp.com?code=nicola) developments.
 
 I do have a [Mastodon](https://pkm.social/@nicola) account but don't check in very often.
 
