@@ -9,6 +9,8 @@
 > 
 > Theodore Roosevelt
 
+#quote
+
 ---
 
 Return to [[Digital Garden/Start Here/notes\|notes]] Index
