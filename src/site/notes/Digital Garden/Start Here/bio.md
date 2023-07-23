@@ -9,19 +9,17 @@ I'm a writer, podcaster and photographer. I live in a small village in the Peak 
 
 I'm an INFP. I'm unconventional, quirky, an introvert and live outside the circle. That might make me eccentric.
 
-I have an eclectic range of interests. You can find some of these in my [[Digital Garden/Start Here/log\|log]].
+I have an eclectic range of interests. 
 
 ---
 
 ## find me
 
 - [Twos](https://www.TwosApp.com/@Nicola)
-- [Twitter](https://twitter.com/mrsnfshr)
+- [Twitter](https://twitter.com/notealoud)
 - [Mastodon (PKM)](https://pkm.social/@nicola)
-- [Mastodon (Medium)](https://me.dm/@thetinyproject)
-- [Instagram](https://www.instagram.com/thetinymoment/)
-- [Medium](https://thetinyproject.medium.com/)
-- [Substack](https://ephemerallollipop.substack.com/)
+- [Instagram](https://www.instagram.com/notealoud/)
+- [Medium](https://notealoud.medium.com/)
 - [NotePD](https://notepd.com/profile/nicolafisher)
 
 ---
