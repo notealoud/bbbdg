@@ -19,7 +19,7 @@ I was born in Manchester, UK.
 
 I lived in Paris for a year and studied at the Sorbonne.
 
-- How I met [[Digital Garden/Notes/Life/bill\|Bill]] Murray in Paris
+- How I met [[Bill\|Bill]] Murray in Paris
 
 ---
 
@@ -27,11 +27,11 @@ I lived in Paris for a year and studied at the Sorbonne.
 
 I worked for EdF. I spent time working in Paris.
 
-- If someone asks you to [[Digital Garden/Notes/Writing/dance\|dance]], say Yes!
+- If someone asks you to [[dance\|dance]], say Yes!
 
 My boss died.
 
-- [[Digital Garden/Notes/Life/endings\|endings]], how we experience them and the choices we make
+- [[endings\|endings]], how we experience them and the choices we make
 
 ---
 
@@ -45,8 +45,8 @@ I got married. 11 months later I left.
 
 Some old blogs from back in the day!
 
-- [[Digital Garden/Log/'ey up\|'ey up]]
-- [[Digital Garden/Log/tgif\|tgif]]
+- [['ey up\|'ey up]]
+- [[tgif\|tgif]]
 
 ---
 
@@ -54,7 +54,7 @@ Some old blogs from back in the day!
 
 More old blogs from when it was a thing!
 
-- a day in the life of [[Digital Garden/Log/tallulah\|tallulah]]
+- a day in the life of [[tallulah\|tallulah]]
 
 ---
 
@@ -80,7 +80,7 @@ My Mum died.
 
 Started a new job as a Business Advisor.
 
-- [[Digital Garden/Log/how do you make people feel?\|how do you make people feel?]]
+- [[how do you make people feel?\|how do you make people feel?]]
 
 ---
 
@@ -166,13 +166,13 @@ And discovered it made me more prolific as a writer.
 
 - [[Nicola Writes/notes/why Obsidian is so great for writing\|Nicola Writes/notes/why Obsidian is so great for writing]]
 
-[[Digital Garden/Notes/Writing/I bought a typewriter and use it every day\|I bought a typewriter and use it every day]]
+[[I bought a typewriter and use it every day\|I bought a typewriter and use it every day]]
 
 I summarised my year.
 
 - [[Nicola Writes/notes/state of the union 2021\|Nicola Writes/notes/state of the union 2021]]
 
-I wrote more about PKM, [[Digital Garden/Log/why personal knowledge management is a game changer\|why personal knowledge management is a game changer]] and [[Digital Garden/Log/why I'm obsessed with Obsidian\|why I'm obsessed with Obsidian]]
+I wrote more about PKM, [[why personal knowledge management is a game changer\|why personal knowledge management is a game changer]] and [[why I'm obsessed with Obsidian\|why I'm obsessed with Obsidian]]
 
 I talked about burnout and burning my bridges. Or not.
 
@@ -184,8 +184,8 @@ I talked about burnout and burning my bridges. Or not.
 
 My big goal for this year is to write and publish my book.
 
-[[Digital Garden/Notes/Tech/Obsidian is a game changer if you want to write a book\|Obsidian is a game changer if you want to write a book]]
+[[Obsidian is a game changer if you want to write a book\|Obsidian is a game changer if you want to write a book]]
 
-I learned [[PARA/3 Resources/Notes, Quotes, Refs/how compiling a daily log in Napkin improves my idea generation\|how compiling a daily log in Napkin improves my idea generation]]
+I learned [[PARA/1 Projects/Writing/Idea Inbox/how compiling a daily log in Napkin improves my idea generation\|how compiling a daily log in Napkin improves my idea generation]]
 
-I (re)discovered [[Digital Garden/Log/the tiny web\|the tiny web]].
+I (re)discovered [[the tiny web\|the tiny web]].
