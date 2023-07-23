@@ -60,7 +60,3 @@ Still loving [Twos](https://www.TwosApp.com?code=nicola). It's an incredible to 
 On a weekly basis I find more ways to use Twos. I create new lists and add content all the time. It really does help me get more done.
 
 [How I Used the Same Productivity App for an Entire Year!](https://medium.com/talkingtech/how-i-used-the-same-productivity-app-for-an-entire-year-41924d15028c?sk=f2ac98f5fa8523b142f915a6e1ce2af6)
-
----
-
-Back to the [[Digital Garden/start\|start]]
