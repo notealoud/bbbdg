@@ -11,11 +11,11 @@ I'm an Introvert so phoning is the most difficult way to get in touch. While you
 
 This is my [Digital Garden](https://www.nicolafisherwriter.co.uk/) where I'm centralising my efforts. You can see what I'm up to [[Digital Garden/Start Here/now\|now]].
 
-You might be able to find me on [Substack](https://ephemerallollipop.substack.com/). I'm also on [Medium](https://medium.com/@thetinyproject).
+You might be able to find me on on [Medium](https://medium.com/@notealoud).
 
-I've fallen out of love with [Instagram](https://medium.com/@thetinyproject) but occasionally post to Stories.
+I've fallen out of love with [Instagram](https://medium.com/@notealoud) but occasionally post to Stories.
 
-I'm dabbling with [Twitter](https://twitter.com/mrsnfshr) again to keep in touch with [Twos](https://www.TwosApp.com?code=nicola) developments.
+I'm dabbling with [Twitter](https://twitter.com/notealoud) again to keep in touch with [Twos](https://www.TwosApp.com?code=nicola) developments.
 
 I do have a [Mastodon](https://pkm.social/@nicola) account but don't check in very often.
 
