@@ -19,11 +19,7 @@ I'm Nicola, and I'm most at home with tech, spending time with cows and being ou
 
 - Say [[Digital Garden/Start Here/hello\|hello]]
 - Read my [[Digital Garden/Start Here/bio\|bio]]
-- Read my [[Digital Garden/Start Here/log\|log]]
-- Read [[the book\|the book]]
-- Read my [[Digital Garden/Start Here/notes\|notes]]
 - Read my [[Digital Garden/Start Here/principles\|principles]]
-- Listen to the [[Digital Garden/Start Here/podcast\|podcast]]
 - Read what I'm doing [[Digital Garden/Start Here/now\|now]]
 
 
