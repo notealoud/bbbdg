@@ -5,7 +5,7 @@
 
 ## book writing
 
-a [[Digital Garden/Book/Section 0/0. A Work in Progress\|0. A Work in Progress]] in progress
+a [[0. A Work in Progress\|0. A Work in Progress]] in progress
 
 ---
 
