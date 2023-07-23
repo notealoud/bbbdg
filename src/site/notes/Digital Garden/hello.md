@@ -24,7 +24,3 @@ I have a pseudonym account on Facebook for admin purposes only.
 You can find me writing lists on [NotePD](https://notepd.com/profile/nicolafisher).
 
 And remembering things and writing them down on [Twos](https://www.TwosApp.com/@Nicola).
-
----
-
-Back to the [[Digital Garden/start\|start]]
